@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-18 11:21+0530\n"
+"PO-Revision-Date: 2015-06-18 13:54+0100\n"
+"Last-Translator: Borisa Djuraskovic <borisad@webhostinghub.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Poedit 1.7.4\n"
+"Language-Team: \n"
+"Language: sr_RS\n"
+
+#: admin/rgm-admin.php:121
+msgid "Google Map Options"
+msgstr "Google Map opcije"
+
+#: admin/rgm-admin.php:121
+msgid "GMap Settings"
+msgstr "GMap podešavanja"
+
+#: admin/template/rgm-admin-options.php:2
+msgid "Google Map Settings"
+msgstr "Google Map podešavanja"
+
+#: admin/template/rgm-admin-options.php:5
+msgid "Settings"
+msgstr "Podešavanja"
+
+#: admin/template/rgm-admin-options.php:12
+msgid "MAP Types"
+msgstr "Vrste mapa"
+
+#: admin/template/rgm-admin-options.php:30
+msgid "Please Select Map Type"
+msgstr "Odaberite vrstu mape"
+
+#: admin/template/rgm-admin-options.php:34
+msgid "Scroll Zoom"
+msgstr "Pomeranje Uveličavanje"
+
+#: admin/template/rgm-admin-options.php:42
+msgid "Disable zoom in/out over map"
+msgstr "Deaktiviraj uveličavanje na mapi, van mape i preko mape"
+
+#: admin/template/rgm-admin-options.php:47
+msgid "Drag Map"
+msgstr "Prevuci mapu"
+
+#: admin/template/rgm-admin-options.php:55
+msgid "Enable Draggable MAP"
+msgstr "Aktiviraj mapu na prevlačenje"
+
+#: admin/template/rgm-admin-options.php:60
+msgid "Enable Marker"
+msgstr "Aktiviraj marker"
+
+#: admin/template/rgm-admin-options.php:68
+msgid "Enable Marker on Map"
+msgstr "Aktiviraj marker na mapi"
+
+#: admin/template/rgm-admin-options.php:73
+msgid "Draw Circle"
+msgstr "Nacrtaj krug"
+
+#: admin/template/rgm-admin-options.php:81
+msgid "Draw Circle around Lat,Lng point"
+msgstr "Nacrtaj krug oko tačke širine i dužine"
+
+#: admin/template/rgm-admin-options.php:86
+msgid "Circle Range"
+msgstr "Prečnik kruga"
+
+#: admin/template/rgm-admin-options.php:95
+msgid "Circle Background Color"
+msgstr "Boja pozadine kruga"
+
+#: admin/template/rgm-admin-options.php:101
+msgid "Circle Border Color"
+msgstr "Boja kružnice"

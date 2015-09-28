@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 'fontello';
+  src: url('../font/fontello.eot?62271124');
+  src: url('../font/fontello.eot?62271124#iefix') format('embedded-opentype'),
+       url('../font/fontello.woff?62271124') format('woff'),
+       url('../font/fontello.ttf?62271124') format('truetype'),
+       url('../font/fontello.svg?62271124#fontello') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'fontello';
+    src: url('../font/fontello.svg?62271124#fontello') format('svg');
+  }
+}
+*/
+ 
+/* [class^="icon-"]:before, [class*=" icon-"]:before {*/
+/*.katb_css_rating:before {*/
+
+.katb_css_rating,
+.katb_popup_wrap.katb_widget .katb_css_rating,
+.katb_popup_wrap .katb_css_rating
+{
+	display: inline-block!important;
+}
+.katb_css_rating i,
+.katb_popup_wrap.katb_widget .katb_css_rating i,
+.katb_popup_wrap .katb_css_rating i
+{
+	font-family: "fontello"!important;
+	font-style: normal;
+	font-weight: normal;
+	speak: none;
+ 
+	display: inline-block;
+	text-decoration: inherit;
+	width: 1em;
+	margin: 0 1px 0 0;
+	text-align: center;
+	/* opacity: .8; */
+ 
+ 	color: #EACB1E;
+	/* Uncomment for 3D effect */
+	text-shadow: 2px 2px 2px rgba( 0, 0, 0, 0.5);
+	
+	/* For safety - reset parent styles, that can break glyph codes*/
+	font-variant: normal;
+	text-transform: none;
+     
+	/* fix buttons height, for twitter bootstrap */
+	line-height: 1em;
+ 
+	/* you can be more comfortable with increased icons size */
+	 font-size: 120%;
+
+}
+
+.katb_css_rating_select,.katb_css_rating_select_widget {
+	display: inline-block;
+	float: left;
+	margin: 5px 0 0 0;
+}
+ 
+.icon-katb-star:before { content: '\800b'; } /* '耋' */
+.icon-katb-star-empty:before { content: '\801b'; } /* '耛' */
+.icon-katb-star-half:before { content: '\802b'; } /* '耫' */
+.icon-katb-reset:before { content: '\803b'; } /* '耻' */

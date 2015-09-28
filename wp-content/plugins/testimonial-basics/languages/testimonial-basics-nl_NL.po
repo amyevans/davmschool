@@ -1,0 +1,2932 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: testimonial-basics\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-15 14:06-0600\n"
+"PO-Revision-Date: 2015-09-15 14:07-0600\n"
+"Last-Translator: Kevin <kevin@kevinsspace.ca>\n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/katb_functions.php:84
+#: includes/katb_testimonial_basics_admin.php:1091
+msgid "User role to edit testimonials"
+msgstr "Gebruikersrol beoordelingen aanpassen"
+
+#: includes/katb_functions.php:90
+msgid "default: Administrator"
+msgstr "Standaard: Administrator"
+
+#: includes/katb_functions.php:98
+#: includes/katb_testimonial_basics_admin.php:1095
+msgid "Testimonial notify email address"
+msgstr "Beoordeling notificatie e-mailadres"
+
+#: includes/katb_functions.php:100
+msgid "Leave blank to use admin email"
+msgstr "Laat leeg om het administrator e-mailadres te gebruiken"
+
+#: includes/katb_functions.php:108
+#: includes/katb_testimonial_basics_admin.php:1098
+msgid "Use Ratings"
+msgstr "Gebruik Waarderingen"
+
+#: includes/katb_functions.php:110
+msgid "Use 5 star rating system"
+msgstr "Gebruik 5 sterren-systeem"
+
+#: includes/katb_functions.php:118
+#: includes/katb_testimonial_basics_admin.php:1101
+msgid "Use CSS Rating System"
+msgstr "Gebruik CSS Rating System"
+
+#: includes/katb_functions.php:120
+msgid "Use CSS instead of jQuery"
+msgstr "Gebruik CSS in plaats van jQuery"
+
+#: includes/katb_functions.php:128
+#: includes/katb_testimonial_basics_admin.php:1104
+msgid "Star color for css stars"
+msgstr "Star kleur voor css sterren"
+
+#: includes/katb_functions.php:130
+msgid "default: #EACB1E, only used for css stars"
+msgstr "default: # EACB1E, alleen gebruikt voor css sterren"
+
+#: includes/katb_functions.php:138
+msgid "Shadow color for the css stars"
+msgstr "Schaduw kleur voor de css sterren"
+
+#: includes/katb_functions.php:140
+msgid "default: #000000, only used for css stars"
+msgstr "default: # 000000, alleen gebruikt voor css sterren"
+
+#: includes/katb_functions.php:148
+#: includes/katb_testimonial_basics_admin.php:1110
+msgid "Enable the testimonial rotator script"
+msgstr "Schakel het Beoordelingen rotator script in"
+
+#: includes/katb_functions.php:150 includes/katb_functions.php:422
+msgid "Default: checked"
+msgstr "Standaard: Aan"
+
+#: includes/katb_functions.php:158
+msgid "Custom CSS"
+msgstr "Aangepaste CSS"
+
+#: includes/katb_functions.php:160
+msgid "replace default css styles or add new ones "
+msgstr "vervangen standaard css-stijlen of nieuwe verbindingslijnen toevoegen"
+
+#: includes/katb_functions.php:169
+#: includes/katb_testimonial_basics_admin.php:1116
+msgid "Use schema markup"
+msgstr "Gebruik schema opmaak"
+
+#: includes/katb_functions.php:171
+msgid "Schema markup is used for Google Snippets to help SEO"
+msgstr "Schema opmaak wordt gebruikt voor Google Snippets ten behoeve van SEO"
+
+#: includes/katb_functions.php:179
+#: includes/katb_testimonial_basics_admin.php:1120
+msgid "Schema Company Name"
+msgstr "Naam Schema Bedrijf"
+
+#: includes/katb_functions.php:181
+msgid "Name of Company the testimonials are about."
+msgstr "Naam van het bedrijf waar de beoordelingen over gaan."
+
+#: includes/katb_functions.php:189
+#: includes/katb_testimonial_basics_admin.php:1123
+msgid "Schema Company Website Reference"
+msgstr "Schema bedrijf website Referentie"
+
+#: includes/katb_functions.php:191
+msgid "Company website address "
+msgstr "Website adres van het bedrijf"
+
+#: includes/katb_functions.php:199
+#: includes/katb_testimonial_basics_admin.php:1126
+msgid "Schema Display Company"
+msgstr "Schema Weergave Bedrijf"
+
+#: includes/katb_functions.php:201
+msgid "Display company name and website"
+msgstr "Toon naam bedrijf en website"
+
+#: includes/katb_functions.php:209
+#: includes/katb_testimonial_basics_admin.php:1129
+msgid "Schema Display Aggregate"
+msgstr "Schema Weergave Samenvatting"
+
+#: includes/katb_functions.php:211
+msgid "Display a summary of reviews"
+msgstr "Geef een samenvatting van"
+
+#: includes/katb_functions.php:219
+#: includes/katb_testimonial_basics_admin.php:1133
+msgid "Schema Display Reviews"
+msgstr "Schema weergeven Beoordelingen"
+
+#: includes/katb_functions.php:221
+msgid "Select to display the individual reviews"
+msgstr "Selecteer om de individuele beoordelingen weer te geven"
+
+#: includes/katb_functions.php:229
+msgid "Use Group Name for Aggregate Name"
+msgstr "Gebruik groepsnaam voor Samenvatting Naam"
+
+#: includes/katb_functions.php:231
+msgid "Select to use the Group Name"
+msgstr "Selecteer het gebruik van de Groepnaam"
+
+#: includes/katb_functions.php:239
+#: includes/katb_testimonial_basics_admin.php:1139
+msgid "Custom Aggregate Review Name"
+msgstr "Eigen naam voor beoordeling Samenvatting"
+
+#: includes/katb_functions.php:241
+msgid "Enter a name for the aggregate review"
+msgstr "Voer een naam in voor de beoordelingen samenvatting"
+
+#: includes/katb_functions.php:249
+#: includes/katb_testimonial_basics_admin.php:1144
+msgid "Group Individual Review Name"
+msgstr "Groep Individueel beoordelingen naam"
+
+#: includes/katb_functions.php:251
+msgid "Use group name for individual review name"
+msgstr "Gebruik groepsnaam voor individuele beoordelingen naam"
+
+#: includes/katb_functions.php:259
+#: includes/katb_testimonial_basics_admin.php:1147
+msgid "Custom Individual Review Name"
+msgstr "Eigen naam voor individuele beoordeling"
+
+#: includes/katb_functions.php:261
+msgid "If not using the Group Name, enter one here"
+msgstr "Bij geen gebruik van groepsnaam, voer hier een naam in"
+
+#: includes/katb_functions.php:270
+#: includes/katb_testimonial_basics_admin.php:1167
+msgid "Auto Approve Testimonials"
+msgstr "Automatisch goedkeuren Testimonials"
+
+#: includes/katb_functions.php:272
+msgid "CAUTION: Use at your own risk."
+msgstr "LET OP: Gebruik op eigen risico."
+
+#: includes/katb_functions.php:280
+#: includes/katb_testimonial_basics_admin.php:1171
+msgid "Use captcha on input forms"
+msgstr "Gebruik captcha op invulformulieren"
+
+#: includes/katb_functions.php:282
+msgid "Check to include captcha."
+msgstr "Vink aan om captcha te gebruiken"
+
+#: includes/katb_functions.php:290
+#: includes/katb_testimonial_basics_admin.php:1175
+msgid "Use color captcha option"
+msgstr "Gebruik kleur captcha optie"
+
+#: includes/katb_functions.php:292
+msgid "Check to use the color captcha option"
+msgstr "Vink aan om de captcha optie kleur in te schakelen"
+
+#: includes/katb_functions.php:300
+msgid "Use Color Captcha Option 2"
+msgstr "Gebruik kleur captcha optie"
+
+#: includes/katb_functions.php:302
+msgid "Least secure but most compatible"
+msgstr "Minst veilige maar meeste compatibel"
+
+#: includes/katb_functions.php:310
+#: includes/katb_testimonial_basics_admin.php:1179
+msgid "Exclude Website in input form"
+msgstr "Uitsluiten Website in invulformulier"
+
+#: includes/katb_functions.php:312 includes/katb_functions.php:322
+#: includes/katb_functions.php:332 includes/katb_functions.php:342
+msgid "Default: unchecked"
+msgstr "Default: aangevinkt"
+
+#: includes/katb_functions.php:320
+msgid "Require website input"
+msgstr "Vereisen website ingang"
+
+#: includes/katb_functions.php:330
+#: includes/katb_testimonial_basics_admin.php:1185
+msgid "Exclude Location in input form"
+msgstr "Uitsluiten Locatie in invulformulier"
+
+#: includes/katb_functions.php:340
+msgid "Require Location input"
+msgstr "Vereisen Locatie ingang"
+
+#: includes/katb_functions.php:351 includes/katb_functions.php:541
+#: includes/katb_testimonial_basics_admin.php:1193
+msgid "Include email note"
+msgstr "Gebruik een e-mailnotificatie"
+
+#: includes/katb_functions.php:353 includes/katb_functions.php:402
+#: includes/katb_functions.php:543 includes/katb_functions.php:804
+#: includes/katb_functions.php:864 includes/katb_functions.php:913
+#: includes/katb_functions.php:989 includes/katb_functions.php:1119
+#: includes/katb_functions.php:1179 includes/katb_functions.php:1228
+#: includes/katb_functions.php:1302
+msgid "Check to include"
+msgstr "Vink aan om op te nemen"
+
+#: includes/katb_functions.php:361 includes/katb_functions.php:551
+#: includes/katb_testimonial_basics_admin.php:1196
+msgid "Email note"
+msgstr "E-mailopmerking"
+
+#: includes/katb_functions.php:363 includes/katb_functions.php:553
+msgid "Default:Email is not published"
+msgstr "Standaard: Email wordt niet weergegeven"
+
+#: includes/katb_functions.php:371 includes/katb_functions.php:561
+#: includes/katb_testimonial_basics_admin.php:1200
+msgid "Use popup messages"
+msgstr "Gebruik pop-up berichten"
+
+#: includes/katb_functions.php:373 includes/katb_functions.php:563
+msgid "Use popup messages for errors and thankyou"
+msgstr "Gebruik pop-up berichten op fouten en dank"
+
+#: includes/katb_functions.php:381 includes/katb_functions.php:571
+#: includes/katb_functions.php:758 includes/katb_functions.php:1098
+msgid "Base Font size"
+msgstr "Standaard Lettergrootte"
+
+#: includes/katb_functions.php:392 includes/katb_functions.php:582
+#: includes/katb_functions.php:769 includes/katb_functions.php:1109
+msgid "1em is equal to 16px"
+msgstr "1em is gelijk aan 16px"
+
+#: includes/katb_functions.php:400
+#: includes/katb_testimonial_basics_admin.php:1210
+msgid "Include title on input form"
+msgstr "Gebruik titel op het invulformulier"
+
+#: includes/katb_functions.php:410
+#: includes/katb_testimonial_basics_admin.php:1213
+msgid "Title for Input Form"
+msgstr "Titel voor het invulformulier"
+
+#: includes/katb_functions.php:412
+msgid "Default:Add a Testimonial"
+msgstr "Standaard: Beoordeling toevoegen"
+
+#: includes/katb_functions.php:420
+#: includes/katb_testimonial_basics_admin.php:1217
+msgid "Show html allowed strip in input form"
+msgstr "Toon de toegestane HTML codes voor het invoerformulier"
+
+#: includes/katb_functions.php:430 includes/katb_functions.php:600
+#: includes/katb_testimonial_basics_admin.php:1221
+msgid "Show gravatar link"
+msgstr "Toon gravatar koppeling"
+
+#: includes/katb_functions.php:432 includes/katb_functions.php:602
+msgid "Allows users to set up Gravatar"
+msgstr "Hiermee kunnen gebruikers op te zetten Gravatar"
+
+#: includes/katb_functions.php:440
+msgid "Author Label"
+msgstr "Auteur Label"
+
+#: includes/katb_functions.php:442
+msgid "Default: Author*"
+msgstr "Standaard: Auteur *"
+
+#: includes/katb_functions.php:450
+msgid "Email Label"
+msgstr "Email Label"
+
+#: includes/katb_functions.php:452
+msgid "Default: Email*"
+msgstr "Standaard: E-mail *"
+
+#: includes/katb_functions.php:460
+msgid "Website Label"
+msgstr "Website Label"
+
+#: includes/katb_functions.php:462
+msgid "Default: Website"
+msgstr "Standaard: Website"
+
+#: includes/katb_functions.php:470
+msgid "Location Label"
+msgstr "Locatie Label"
+
+#: includes/katb_functions.php:472
+msgid "Default: Location"
+msgstr "Standaard: Locatie"
+
+#: includes/katb_functions.php:480
+msgid "Rating Label"
+msgstr "Waardering Label"
+
+#: includes/katb_functions.php:482
+msgid "Default: Rating"
+msgstr "Standaard: Waardering"
+
+#: includes/katb_functions.php:490
+msgid "Testimonial Label"
+msgstr "Beoordeling Label"
+
+#: includes/katb_functions.php:492
+msgid "Default: Testimonial*"
+msgstr "Standaard: Beoordeling *"
+
+#: includes/katb_functions.php:500
+msgid "Captcha Label"
+msgstr "CAPTCHA Label"
+
+#: includes/katb_functions.php:502 includes/katb_functions.php:682
+msgid "Default: Enter Captcha"
+msgstr "Standaardinstelling: Voer Captcha"
+
+#: includes/katb_functions.php:510
+msgid "Submit Label"
+msgstr "Versturen Label"
+
+#: includes/katb_functions.php:512 includes/katb_functions.php:692
+msgid "Default: Submit"
+msgstr "Standaard: Versturen"
+
+#: includes/katb_functions.php:520
+msgid "Reset Label"
+msgstr "Reset Label"
+
+#: includes/katb_functions.php:522 includes/katb_functions.php:702
+msgid "Default: Reset"
+msgstr "Standaard: Reset"
+
+#: includes/katb_functions.php:530
+msgid "Required Label"
+msgstr "Verplichte Label"
+
+#: includes/katb_functions.php:532
+msgid "Default: * Required"
+msgstr "Standaard: * Verplicht"
+
+#: includes/katb_functions.php:590
+msgid "Show html allowed strip in widget form"
+msgstr "Toon de toegestane HTML codes voor het widget invoerformulier"
+
+#: includes/katb_functions.php:592
+msgid "Default: not checked"
+msgstr "Standaard: uit"
+
+#: includes/katb_functions.php:610
+#: includes/katb_testimonial_basics_admin.php:1224
+msgid "Show input labels above input box"
+msgstr "Toon ingangslabels bovenstaande invoerveld"
+
+#: includes/katb_functions.php:612
+msgid "Default: not checked or inside input box"
+msgstr "Standaard: niet gecontroleerd of binnen invoerveld"
+
+#: includes/katb_functions.php:620
+msgid "Widget Author Label"
+msgstr "Widget Auteur Label"
+
+#: includes/katb_functions.php:622
+msgid "Default: Author-Required"
+msgstr "Standaard: Auteur-Vereist"
+
+#: includes/katb_functions.php:630
+msgid "Widget Email Label"
+msgstr "Widget Email Label"
+
+#: includes/katb_functions.php:632
+msgid "Default: Email-Required"
+msgstr "Standaard: Email-Verplicht"
+
+#: includes/katb_functions.php:640
+msgid "Widget Website Label"
+msgstr "Widget Website Label"
+
+#: includes/katb_functions.php:642
+msgid "Default: Website-Optional"
+msgstr "Standaard: Website-Optioneel"
+
+#: includes/katb_functions.php:650
+msgid "Widget Location Label"
+msgstr "Widget Locatie Label"
+
+#: includes/katb_functions.php:652
+msgid "Default: Location-Optional"
+msgstr "Standaard: Locatie-Optioneel"
+
+#: includes/katb_functions.php:660
+msgid "Widget Rating Label"
+msgstr "Widget Waardering Label"
+
+#: includes/katb_functions.php:662
+msgid "Default: Rating-Optional"
+msgstr "Standaard: Waardering-Optioneel"
+
+#: includes/katb_functions.php:670
+msgid "Widget Testimonial Label"
+msgstr "Widget Beoordeling Label"
+
+#: includes/katb_functions.php:672
+msgid "Default: Testimonial-Required"
+msgstr "Standaard: Beoordeling-Vereist"
+
+#: includes/katb_functions.php:680
+msgid "Widget Captcha Label"
+msgstr "Widget Captcha Label"
+
+#: includes/katb_functions.php:690
+msgid "Widget Submit Label"
+msgstr "Widget Versturen Label"
+
+#: includes/katb_functions.php:700
+msgid "Widget Reset Label"
+msgstr "Widget Reset Label"
+
+#: includes/katb_functions.php:710
+msgid "Widget Required Label"
+msgstr "Widget Verplichte Label"
+
+#: includes/katb_functions.php:712
+msgid "Optional-leave blank if not using"
+msgstr "Optionele leeg laten als het niet gebruiken"
+
+#: includes/katb_functions.php:721
+#: includes/katb_testimonial_basics_admin.php:1246
+#: includes/katb_testimonial_basics_admin.php:1329
+msgid "Layout Option"
+msgstr "Layout Opties"
+
+#: includes/katb_functions.php:728 includes/katb_functions.php:1068
+msgid "Try them to see what you prefer"
+msgstr "Probeer ze te laten zien wat u voor kiest"
+
+#: includes/katb_functions.php:736
+#: includes/katb_testimonial_basics_admin.php:1250
+msgid "Font for Content Display"
+msgstr "Lettertype voor de weergave"
+
+#: includes/katb_functions.php:750 includes/katb_functions.php:1090
+msgid "default is theme font"
+msgstr "Standaard is themalettertype"
+
+#: includes/katb_functions.php:777
+msgid "Use pagination"
+msgstr "Gebruik paginering"
+
+#: includes/katb_functions.php:779
+msgid "Check to include for ALL or ALL GROUP displays."
+msgstr "Vink aan om op te nemen voor ALLE of ALL GROUP weergaven."
+
+#: includes/katb_functions.php:787
+msgid "Testimonials per page"
+msgstr "Beoordelingen per pagina"
+
+#: includes/katb_functions.php:794
+msgid "select 3, 5 or 10 per page"
+msgstr "Selecteer 3, 5 of 10 beoordelingen per pagina"
+
+#: includes/katb_functions.php:802
+msgid "Use excerpts in testimonial display"
+msgstr "Gebruik woord afbreking bij het tonen van beoordelingen"
+
+#: includes/katb_functions.php:812
+msgid "Excerpt length in words"
+msgstr "Uittreksel lengte in woorden"
+
+#: includes/katb_functions.php:814
+msgid "default: 80"
+msgstr "standaard: 80"
+
+#: includes/katb_functions.php:822 includes/katb_functions.php:1137
+#: includes/katb_testimonial_basics_admin.php:1268
+#: includes/katb_testimonial_basics_admin.php:1346
+msgid "Show title in testimonial"
+msgstr "Toon titel in beoordeling"
+
+#: includes/katb_functions.php:824 includes/katb_functions.php:1139
+msgid "Use schema name options without the schema"
+msgstr "Gebruik schema naam opties zonder het schema"
+
+#: includes/katb_functions.php:832
+msgid "Show website in testimonial"
+msgstr "Toon de website in de beoordeling"
+
+#: includes/katb_functions.php:834 includes/katb_functions.php:1149
+msgid "Check to include website"
+msgstr "Vink aan om website te tonen"
+
+#: includes/katb_functions.php:842
+msgid "Show date in testimonial"
+msgstr "Laat datum zien in de beoordeling"
+
+#: includes/katb_functions.php:844 includes/katb_functions.php:1159
+msgid "Check to include date"
+msgstr "Vink aan om de datum te tonen"
+
+#: includes/katb_functions.php:852
+msgid "Show location in testimonial"
+msgstr "Toon de lokatie in de beoordeling"
+
+#: includes/katb_functions.php:854 includes/katb_functions.php:1169
+msgid "Check to include location"
+msgstr "Vink aan om lokatie te tonen"
+
+#: includes/katb_functions.php:862 includes/katb_functions.php:1177
+msgid "Use gravatars"
+msgstr "Gebruik gravatars"
+
+#: includes/katb_functions.php:872 includes/katb_functions.php:1187
+msgid "Use round gravatars/images"
+msgstr "Gebruik ronde gravatars/afbeeldingen"
+
+#: includes/katb_functions.php:874 includes/katb_functions.php:1189
+msgid "All images will be round"
+msgstr "Alle beelden zullen ronde"
+
+#: includes/katb_functions.php:882 includes/katb_functions.php:1197
+msgid "Use gravatar substitute"
+msgstr "Gebruik gravatar vervanger"
+
+#: includes/katb_functions.php:884
+msgid "Use substitute if gravatar unavailable"
+msgstr "Gebruik vervanger indien gravatar niet beschikbaar is"
+
+#: includes/katb_functions.php:892 includes/katb_functions.php:1207
+msgid "Gravatar size"
+msgstr "Gravatar afmeting"
+
+#: includes/katb_functions.php:903 includes/katb_functions.php:1218
+msgid "Select a size for the gravatar"
+msgstr "Selecteer een afmeting voor de gravatar"
+
+#: includes/katb_functions.php:911 includes/katb_functions.php:1226
+#: includes/katb_testimonial_basics_admin.php:1283
+#: includes/katb_testimonial_basics_admin.php:1361
+msgid "Use italic font style"
+msgstr "Gebruik italic font"
+
+#: includes/katb_functions.php:922
+#: includes/katb_testimonial_basics_admin.php:1288
+#: includes/katb_testimonial_basics_admin.php:1366
+msgid "Time between slides"
+msgstr "Tijd tussen dia's"
+
+#: includes/katb_functions.php:937 includes/katb_functions.php:1251
+msgid "default: 7000 ms, IE9,IE10 uses default"
+msgstr "standaard: 7000 ms, IE9, IE10 standaardinstellingen gebruikt"
+
+#: includes/katb_functions.php:945
+#: includes/katb_testimonial_basics_admin.php:1291
+#: includes/katb_testimonial_basics_admin.php:1369
+msgid "Rotator height in pixels"
+msgstr "Rotator hoogte in pixels"
+
+#: includes/katb_functions.php:963 includes/katb_functions.php:1277
+msgid "default: variable"
+msgstr "Standaard: variabel"
+
+#: includes/katb_functions.php:971
+#: includes/katb_testimonial_basics_admin.php:1296
+#: includes/katb_testimonial_basics_admin.php:1374
+msgid "Rotator transition effect"
+msgstr "Rotator overgangseffect"
+
+#: includes/katb_functions.php:978 includes/katb_functions.php:1292
+msgid "default: fade, IE9,IE10 uses default"
+msgstr "default: fade, IE9, IE10 standaardinstellingen gebruikt"
+
+#: includes/katb_functions.php:987 includes/katb_functions.php:1300
+#: includes/katb_testimonial_basics_admin.php:1301
+#: includes/katb_testimonial_basics_admin.php:1379
+msgid "Use formatted display"
+msgstr "Gebruik voor gedefinieerde afmeting"
+
+#: includes/katb_functions.php:997
+msgid "Color Option 1"
+msgstr "Kleuroptie 1"
+
+#: includes/katb_functions.php:999
+msgid "wrap color: Top Meta,Bottom Meta, Meta box color: Side Meta"
+msgstr "Wikkel kleur: Top Meta, onder Meta, Meta vak Kleur: kant Meta"
+
+#: includes/katb_functions.php:1007
+msgid "Color Option 2"
+msgstr "Kleuroptie 2"
+
+#: includes/katb_functions.php:1009
+msgid "Content Box Color"
+msgstr "Inhoud vak Kleur"
+
+#: includes/katb_functions.php:1017
+msgid "Testimonial Box Font Color"
+msgstr "Beoordeling tekstkleur"
+
+#: includes/katb_functions.php:1019 includes/katb_functions.php:1029
+#: includes/katb_functions.php:1332 includes/katb_functions.php:1342
+msgid "default: #000000"
+msgstr "Standaard: #000000"
+
+#: includes/katb_functions.php:1027 includes/katb_functions.php:1340
+msgid "Author,Location, and Date Color"
+msgstr "Auteur-, lokatie- en datum kleur "
+
+#: includes/katb_functions.php:1037 includes/katb_functions.php:1350
+msgid "Website Link Color"
+msgstr "Website Link kleur"
+
+#: includes/katb_functions.php:1039 includes/katb_functions.php:1352
+msgid "default: #3384E8"
+msgstr "Standaard: #3384E8"
+
+#: includes/katb_functions.php:1047 includes/katb_functions.php:1360
+msgid "Website Link Hover Color"
+msgstr "Website Link kleur bij muis-over"
+
+#: includes/katb_functions.php:1049 includes/katb_functions.php:1362
+msgid "default: #FFFFFF"
+msgstr "Standaard: #FFFFFF"
+
+#: includes/katb_functions.php:1058
+msgid "Widget Layout Option"
+msgstr "Widget Weergave Optie"
+
+#: includes/katb_functions.php:1076
+#: includes/katb_testimonial_basics_admin.php:1333
+msgid "Font for Widget Display"
+msgstr "Lettertype voor de widget"
+
+#: includes/katb_functions.php:1117
+msgid "Use excerpts in widget testimonial display"
+msgstr "Gebruik woordafbreking bij het tonen van beoordelingen in de widget"
+
+#: includes/katb_functions.php:1127
+msgid "Widget excerpt length in characters"
+msgstr "Aantal karakters voor afbreken in widget"
+
+#: includes/katb_functions.php:1129
+msgid "default: 25"
+msgstr "standaard: 25"
+
+#: includes/katb_functions.php:1147
+msgid "Show website in widget"
+msgstr "Toon de website in de widget"
+
+#: includes/katb_functions.php:1157
+msgid "Show date in widget"
+msgstr "Toon de datum in de widget"
+
+#: includes/katb_functions.php:1167
+msgid "Show location in widget"
+msgstr "Toon de lokatie in de widget"
+
+#: includes/katb_functions.php:1199
+msgid "Use substitute if Gravatar unavailable"
+msgstr "Gebruik vervanger indien Gravatar niet beschikbaar is"
+
+#: includes/katb_functions.php:1236
+msgid "Widget time between slides"
+msgstr "Widget tijd tussen dia's"
+
+#: includes/katb_functions.php:1259
+msgid "Widget rotator height in pixels"
+msgstr "Widget rotator hoogte in pixels"
+
+#: includes/katb_functions.php:1285
+msgid "Widget rotator transition effect"
+msgstr "Widget rotator overgangseffect"
+
+#: includes/katb_functions.php:1310
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: includes/katb_functions.php:1312
+msgid "default: #EDEDED"
+msgstr "Standaard: #EDEDED"
+
+#: includes/katb_functions.php:1320
+msgid "Divider Color"
+msgstr "Scheidingslijn kleur"
+
+#: includes/katb_functions.php:1322
+msgid "default: #CECECE"
+msgstr "standaard: #CECECE"
+
+#: includes/katb_functions.php:1330
+msgid "Font Color"
+msgstr "Tekstkleur"
+
+#: includes/katb_functions.php:1613 includes/katb_functions.php:1615
+#: includes/katb_testimonial_basics_admin.php:574
+msgid "Author is required"
+msgstr "Auteur is verplicht"
+
+#: includes/katb_functions.php:1624 includes/katb_functions.php:1626
+#: includes/katb_testimonial_basics_admin.php:588
+msgid "Valid email is required"
+msgstr "Geldig e-mailadres is verplicht"
+
+#: includes/katb_functions.php:1638 includes/katb_functions.php:1640
+msgid "Website is required"
+msgstr "Website vereist"
+
+#: includes/katb_functions.php:1656 includes/katb_functions.php:1658
+msgid "Location is required"
+msgstr "Locatie is vereist"
+
+#: includes/katb_functions.php:1683 includes/katb_functions.php:1685
+#: includes/katb_testimonial_basics_admin.php:636
+msgid "Testimonial is required"
+msgstr "Beoordeling is verplicht"
+
+#: includes/katb_functions.php:1697 includes/katb_functions.php:1699
+msgid "Captcha is invalid - please try again"
+msgstr "Captcha is foutief - probeer het nog eens"
+
+#: includes/katb_functions.php:1730
+#: widgets/katb_input_testimonial_widget.php:317
+msgid "You have received a testimonial!"
+msgstr "Je hebt een beoordeling ontvangen"
+
+#: includes/katb_functions.php:1731
+#: includes/katb_testimonial_basics_admin.php:935
+#: widgets/katb_input_testimonial_widget.php:318
+msgid "Name: "
+msgstr "Naam:"
+
+#: includes/katb_functions.php:1732
+#: widgets/katb_input_testimonial_widget.php:320
+msgid "Email: "
+msgstr "E-mail:"
+
+#: includes/katb_functions.php:1734
+#: widgets/katb_input_testimonial_widget.php:322
+msgid "Comments: "
+msgstr "Reacties:"
+
+#: includes/katb_functions.php:1736
+#: widgets/katb_input_testimonial_widget.php:324
+msgid "Log in to approve or view it:"
+msgstr "Log in om te keuren of te kunnen bekijken:"
+
+#: includes/katb_functions.php:1831
+msgid "more"
+msgstr "meer"
+
+#: includes/katb_shortcodes.php:280
+#: widgets/katb_display_testimonial_widget.php:217
+msgid "You must have 2 approved testimonials to use a rotated display!"
+msgstr ""
+"Je moet minimaal 2 goedgekeurde beoordelingen hebben om de rotator te kunnen "
+"gebruiken!"
+
+#: includes/katb_shortcodes.php:282
+#: widgets/katb_display_testimonial_widget.php:219
+msgid "There are no approved testimonials to display!"
+msgstr "Er zijn geen goedgekeurde beoordelingen om te tonen!"
+
+#: includes/katb_shortcodes.php:370 includes/katb_shortcodes.php:373
+#: widgets/katb_input_testimonial_widget.php:356
+msgid "There were errors so the testimonial was not added: "
+msgstr "Er zijn fouten. Daarom werd de beoordeling niet toegevoegd:"
+
+#: includes/katb_shortcodes.php:381 includes/katb_shortcodes.php:383
+#: widgets/katb_input_testimonial_widget.php:489
+#: widgets/katb_input_testimonial_widget.php:491
+msgid "Testimonial Submitted - Thank You!"
+msgstr "Testimonial Ingezonden - dank u!"
+
+#: includes/katb_shortcodes.php:472
+msgid "Allowed"
+msgstr "Toegestaan"
+
+#: includes/katb_shortcodes.php:497
+msgid "Add a photo? "
+msgstr "Een foto toevoegen?"
+
+#: includes/katb_shortcodes.php:784
+msgid "Company"
+msgstr "Bedrijfsnaam"
+
+#: includes/katb_shortcodes.php:785
+msgid "Website"
+msgstr "Website"
+
+#: includes/katb_shortcodes.php:1294 includes/katb_shortcodes.php:1318
+msgid "All Reviews"
+msgstr "Alle beoordelingen"
+
+#: includes/katb_shortcodes.php:1311
+msgid "Aggregate Review"
+msgstr "Beoordeling samenvatting"
+
+#: includes/katb_shortcodes.php:1332
+msgid "out of"
+msgstr "van"
+
+#: includes/katb_shortcodes.php:1338
+msgid "vote"
+msgstr "stem"
+
+#: includes/katb_shortcodes.php:1340
+msgid "not rated"
+msgstr "niet gewaardeerd"
+
+#: includes/katb_shortcodes.php:1343
+msgid "votes"
+msgstr "stemmen"
+
+#: includes/katb_shortcodes.php:1347
+msgid "no reviews yet"
+msgstr "nog geen beoordelingen"
+
+#: includes/katb_shortcodes.php:1350
+msgid "review"
+msgstr "waardering"
+
+#: includes/katb_shortcodes.php:1353
+msgid "reviews"
+msgstr "waarderingen"
+
+#: includes/katb_testimonial_basics_admin.php:122
+msgid "Testimonial Basics - Instructions"
+msgstr "De grondbeginselen van de getuigenis - instructies"
+
+#: includes/katb_testimonial_basics_admin.php:126
+msgid "Introduction"
+msgstr "Introductie"
+
+#: includes/katb_testimonial_basics_admin.php:128
+msgid ""
+"Testimonial Basics facilitates easy management of customer testimonials."
+msgstr ""
+"Testimonial Basics faciliteert het gemakkelijk managen van uw klant "
+"beoordelingen."
+
+#: includes/katb_testimonial_basics_admin.php:129
+msgid ""
+"The user can set up an input form in a page or in a widget, and display all "
+"or selected testimonials in a page or a widget."
+msgstr ""
+"De gebruiker kan een invoerformulier in een pagina of widget plaatsen en "
+"alle (of een selectie van de) beoordelingen in een pagina of widget tonen."
+
+#: includes/katb_testimonial_basics_admin.php:131
+msgid ""
+"If you like the program show your appreciation, buy me a coffee, beer, or a "
+"bottle of wine (red please!)."
+msgstr ""
+"Als je dit een goede plugin vindt, toon dan je waardering door mij op een "
+"kop koffie, een biertje of een fles wijn (rood graag!) te trakteren."
+
+#: includes/katb_testimonial_basics_admin.php:132
+msgid ""
+"Or just head to the website link above and put in a testimonial, or send me "
+"an e-mail, pats on the back are pretty nice too!"
+msgstr ""
+"Of ga naar de website link hierboven en laat een beoordeling achter, of "
+"stuur mij een e-mail. Een schouderklopje is ook leuk!"
+
+#: includes/katb_testimonial_basics_admin.php:134
+msgid ""
+"I plan to do updates if required, so also contact me if you find any "
+"problems, or have suggestions for improvements."
+msgstr ""
+"Ik zal updates beschikbaar stellen als dat nodig is, dus neem contact met "
+"mij op als je een probleem tegenkomt of een suggestie hebt voor een "
+"verbetering."
+
+#: includes/katb_testimonial_basics_admin.php:136
+msgid ""
+"I briefly discuss the use of the plugin below. For detailed documentation, "
+"visit the plugin site."
+msgstr ""
+"Hieronder leg ik in het kort uit hoe je de plugin kunt gebruiken. Voor meer "
+"getailleerde documentatie, bezoek dan de plugin website."
+
+#: includes/katb_testimonial_basics_admin.php:138
+msgid "I hope you enjoy Testimonial Basics!"
+msgstr "Veel plezier met Testimonial Basics!"
+
+#: includes/katb_testimonial_basics_admin.php:140
+msgid "Visitor Input Form"
+msgstr "Invoerformulier voor de bezoeker"
+
+#: includes/katb_testimonial_basics_admin.php:141
+msgid "You can set up a visitor input form very easily."
+msgstr "Je kunt het invoerformulier voor de bezoeker eenvoudig opzetten."
+
+#: includes/katb_testimonial_basics_admin.php:142
+msgid "Simply include in your page content:"
+msgstr "Plaats het volgende eenvoudig op je pagina:"
+
+#: includes/katb_testimonial_basics_admin.php:145
+msgid ""
+"IMPORTANT : Make sure you set up the page using the \"Text\" editor and not "
+"the \"Visual\" editor."
+msgstr ""
+"BELANGRIJK: Zorg dat je de pagina opmaakt in de \"Tekst\" editor en NIET in "
+"de \"Wysiwyg\" editor."
+
+#: includes/katb_testimonial_basics_admin.php:146
+msgid ""
+"group - This will be the group name for the testimonial, default is \"All\""
+msgstr ""
+"groep - Dit zal de naam van de groep voor de getuigenis is, standaard is "
+"\"All\""
+
+#: includes/katb_testimonial_basics_admin.php:147
+msgid "form - The first form is 1 by default"
+msgstr "vorm - De eerste vorm is 1 standaard"
+
+#: includes/katb_testimonial_basics_admin.php:148
+msgid ""
+"If you have more than one form in the content area number them 1,2,3, ..."
+msgstr "Als u meer dan een vorm weer in het gebied nummer ze 1,2,3, ..."
+
+#: includes/katb_testimonial_basics_admin.php:153
+msgid "Visitor Input Widget"
+msgstr "Bezoeker Invul Widget"
+
+#: includes/katb_testimonial_basics_admin.php:154
+msgid "You can also use a widget as a user input form."
+msgstr "Je kunt ook een widget gebruiken om een invulformulier te plaatsen."
+
+#: includes/katb_testimonial_basics_admin.php:155
+msgid ""
+"Go to \"Appearance\" => \"Widgets\" and drag the widget to the widgetized "
+"area."
+msgstr ""
+"Ga naar \"Weergave\" => \"Widgets\" en sleep de widget naar de widget ruimte."
+
+#: includes/katb_testimonial_basics_admin.php:157
+msgid "Displaying Testimonials"
+msgstr "Tonen van Beoordelingen"
+
+#: includes/katb_testimonial_basics_admin.php:158
+msgid ""
+"You can display testimonials in the content of a page using shortcodes or "
+"you can use widgets to display testimonials."
+msgstr ""
+"Je kunt de referenties tonen in de inhoud van een pagina door middel van een "
+"\"shortcode\" of door de widget te gebruiken."
+
+#: includes/katb_testimonial_basics_admin.php:160
+msgid "Using a Shortcode"
+msgstr "Met behulp van een Shortcode"
+
+#: includes/katb_testimonial_basics_admin.php:162
+msgid ""
+"To display testimonials create a new page and enter the following shortcode :"
+msgstr ""
+"Om de beoordelingen te tonen in een pagina, plaats je de volgende shortcode:"
+
+#: includes/katb_testimonial_basics_admin.php:167
+#: includes/katb_testimonial_basics_admin.php:168
+#: includes/katb_testimonial_basics_admin.php:169
+#: includes/katb_testimonial_basics_admin.php:170
+#: includes/katb_testimonial_basics_admin.php:171
+#: includes/katb_testimonial_basics_admin.php:172
+#: includes/katb_testimonial_basics_admin.php:179
+msgid "Options for"
+msgstr "Opties voor"
+
+#: includes/katb_testimonial_basics_admin.php:167
+msgid "ignores groups"
+msgstr "Negeert groepen"
+
+#: includes/katb_testimonial_basics_admin.php:167
+msgid "display only this grouping"
+msgstr "toon enkel deze groep"
+
+#: includes/katb_testimonial_basics_admin.php:168
+msgid ""
+"displays all testimonials, or put in the number of testimonials you want to "
+"display"
+msgstr ""
+"toon alle beoordelingen, of vul het aantal beoordelingen in om weer te geven"
+
+#: includes/katb_testimonial_basics_admin.php:169
+msgid "display randomly"
+msgstr "weergave willekeurig"
+
+#: includes/katb_testimonial_basics_admin.php:169
+msgid "display by order number, lowest to highest"
+msgstr "weergeven op volgnummer, laagste tot de hoogste"
+
+#: includes/katb_testimonial_basics_admin.php:169
+msgid "display most recent first"
+msgstr "toon de meest recente eerst"
+
+#: includes/katb_testimonial_basics_admin.php:170
+msgid "leave blank for multiple testimonials"
+msgstr "Laat leeg voor meerdere beoordelingen"
+
+#: includes/katb_testimonial_basics_admin.php:170
+msgid "put in testimonial ID"
+msgstr "Plaats een beoordeling ID"
+
+#: includes/katb_testimonial_basics_admin.php:171
+msgid "display all selected testimonials"
+msgstr "geeft alle geselecteerde beoordelingen weer"
+
+#: includes/katb_testimonial_basics_admin.php:171
+msgid "rotate each testimonial"
+msgstr "alle beoordelingen roteren"
+
+#: includes/katb_testimonial_basics_admin.php:172
+msgid "default to whatever is set up in the General Options Panel"
+msgstr "wat standaard is ingesteld in het algemene opties paneel"
+
+#: includes/katb_testimonial_basics_admin.php:173
+msgid "no format top meta"
+msgstr "geen indeling top meta"
+
+#: includes/katb_testimonial_basics_admin.php:174
+msgid "no format bottom meta"
+msgstr "geen indeling onder meta"
+
+#: includes/katb_testimonial_basics_admin.php:175
+msgid "no format side meta"
+msgstr "geen indeling kant meta"
+
+#: includes/katb_testimonial_basics_admin.php:176
+msgid "format top meta"
+msgstr "bovenste meta opmaken"
+
+#: includes/katb_testimonial_basics_admin.php:177
+msgid "format bottom meta"
+msgstr "indeling onder meta"
+
+#: includes/katb_testimonial_basics_admin.php:178
+msgid "format side meta"
+msgstr "indeling kant meta"
+
+#: includes/katb_testimonial_basics_admin.php:179
+msgid "whatever is set up in the General Options Panel"
+msgstr "Wat is ingesteld in het algemene opties paneel"
+
+#: includes/katb_testimonial_basics_admin.php:180
+msgid "override to yes"
+msgstr "overschrijven op Ja"
+
+#: includes/katb_testimonial_basics_admin.php:180
+msgid "override to no"
+msgstr "negeren op Nee"
+
+#: includes/katb_testimonial_basics_admin.php:186
+msgid ""
+"* Note that if id is not blank ( id=\"\" ), the \"group\", \"by\" and "
+"\"number\" attributes are ignored."
+msgstr ""
+"* Merk op dat als ID niet leeg is (id = \"\"), de \"Groep\", \"Op\" en "
+"\"Aantal\" attributen worden genegeerd."
+
+#: includes/katb_testimonial_basics_admin.php:187
+msgid "* You must have more then 2 testimonials to rotate them."
+msgstr ""
+"* U moet meer dan 2 goedgekeurde beoordelingen hebben om te kunnen roteren."
+
+#: includes/katb_testimonial_basics_admin.php:188
+msgid "* Use pagination to display a lot of testimonials."
+msgstr "* Gebruik paginering om veel beoordelingen weer te geven."
+
+#: includes/katb_testimonial_basics_admin.php:189
+msgid ""
+"* Pagination can be used to display all testimonials or all testimonials in "
+"a group."
+msgstr ""
+"* Paginering kan worden gebruikt om alle beoordelingen of alle beoordelingen "
+"in een groep weer te geven."
+
+#: includes/katb_testimonial_basics_admin.php:190
+msgid "* Do not select rotate=\"yes\" more than 5 times in a page content area"
+msgstr "* Selecteer niet rotate = \"yes\" meer dan 5 keer in een pagina-inhoud"
+
+#: includes/katb_testimonial_basics_admin.php:191
+msgid ""
+"* IMPORTANT : Make sure you set up the page using the \"Text\" editor and "
+"not the \"Visual\" editor."
+msgstr ""
+"* BELANGRIJK: Zorg ervoor dat u het opmaken van de pagina met de \"Text\"-"
+"editor doet en niet met de \"Wysiwyg\" editor."
+
+#: includes/katb_testimonial_basics_admin.php:192
+msgid ""
+"* Layout options allow you to override the default layouts and have multiple "
+"layouts on your site."
+msgstr ""
+"* Lay-outopties kunnen u overschrijft de standaard lay-outs en meerdere lay-"
+"outs hebt op uw site."
+
+#: includes/katb_testimonial_basics_admin.php:193
+msgid ""
+"* Schema should only be used once on a page, this option allows you to "
+"control that."
+msgstr ""
+"* Schema mag alleen worden gebruikt wanneer op een pagina met deze optie "
+"kunt u bepalen dat."
+
+#: includes/katb_testimonial_basics_admin.php:196
+msgid "Using a Widget"
+msgstr "Met behulp van een Widget"
+
+#: includes/katb_testimonial_basics_admin.php:198
+msgid "You can also use a widget to display a testimonial."
+msgstr "Je kunt ook een widget gebruiken om een beoordeling weer te geven."
+
+#: includes/katb_testimonial_basics_admin.php:201
+msgid "Drag the widget to a widetized area and enter a title"
+msgstr "Sleep de widget naar de Widget Ruimte en plaats een titel"
+
+#: includes/katb_testimonial_basics_admin.php:202
+msgid ""
+"The options for display are the same as in the shortcode explained above"
+msgstr ""
+"De opties voor weergave zijn dezelfde als in de shortcode zoals hierboven "
+"uitgelegd "
+
+#: includes/katb_testimonial_basics_admin.php:203
+msgid "Save the settings"
+msgstr "Sla de instellingen op"
+
+#: includes/katb_testimonial_basics_admin.php:209
+msgid "* The fewer the testimonials the lower the load time"
+msgstr "* Hoe kleiner aantal beoordelingen, hoe lager de laadtijd"
+
+#: includes/katb_testimonial_basics_admin.php:210
+msgid "* Rotate a maximum of 10 testimonials"
+msgstr "* Draai een maximum van 10 beoordelingen"
+
+#: includes/katb_testimonial_basics_admin.php:211
+msgid "* You can not use more than 5 rotating widgets on a page"
+msgstr ""
+"* U kunt niet meer dan 5 roterende widgets op een en dezelfde pagina "
+"gebruiken"
+
+#: includes/katb_testimonial_basics_admin.php:212
+msgid "* If you are not rotating testimonials keep the number below 3"
+msgstr ""
+"* Als u geen roterende beoordelingen gebruikt houd dan het onderstaande "
+"nummer op 3"
+
+#: includes/katb_testimonial_basics_admin.php:251
+msgid "Save Options"
+msgstr "Opties Bewaren"
+
+#: includes/katb_testimonial_basics_admin.php:252
+msgid "Reset Options"
+msgstr "Opties Wissen"
+
+#: includes/katb_testimonial_basics_admin.php:557
+msgid "Order must be a integer"
+msgstr "Volgorde moet een integer zijn"
+
+#: includes/katb_testimonial_basics_admin.php:597
+msgid "Date must be"
+msgstr "Datum moet zijn"
+
+#: includes/katb_testimonial_basics_admin.php:608
+msgid "Time must be"
+msgstr "Tijd moet zijn"
+
+#: includes/katb_testimonial_basics_admin.php:665
+msgid "Testimonial added successfuly."
+msgstr "Beoordeling met succes toegevoegd."
+
+#: includes/katb_testimonial_basics_admin.php:673
+msgid "Testimonial updated."
+msgstr "Testimonial bijgewerkt."
+
+#: includes/katb_testimonial_basics_admin.php:677
+msgid "Error,testimonial was not added"
+msgstr "Fout, beoordeling werd niet toegevoegd"
+
+#: includes/katb_testimonial_basics_admin.php:716
+#: includes/katb_testimonial_basics_admin.php:874
+msgid "Error, no ID"
+msgstr "Fout, geen ID"
+
+#: includes/katb_testimonial_basics_admin.php:732
+msgid "Testimonial was deleted."
+msgstr "Beoordeling is verwijderd."
+
+#: includes/katb_testimonial_basics_admin.php:769
+msgid ""
+"Click the Help button for instructions or see the testimonial_basics_docs."
+"html file included in the plugin docs folder."
+msgstr ""
+"Klik de “Help” knop voor instructies of bekijk de “testimonial_basics_docs."
+"html” file, te vinden in de plugin docs map."
+
+#: includes/katb_testimonial_basics_admin.php:770
+msgid "Enter or update a testimonial (*Required)"
+msgstr "Plaats of update een beoordeling (*Verplicht)"
+
+#: includes/katb_testimonial_basics_admin.php:777
+msgid "ID : "
+msgstr "ID : "
+
+#: includes/katb_testimonial_basics_admin.php:780
+msgid "Approved : "
+msgstr "Goedgekeurd :"
+
+#: includes/katb_testimonial_basics_admin.php:783
+msgid "Date (YYYY-MM-DD): "
+msgstr "Datum (YYYY-MM-DD): "
+
+#: includes/katb_testimonial_basics_admin.php:786
+msgid "Time (HH:MM:SS): "
+msgstr "Tijd (HH:MM:SS): "
+
+#: includes/katb_testimonial_basics_admin.php:789
+#: widgets/katb_display_testimonial_widget.php:61
+msgid "Group : "
+msgstr "Groep :"
+
+#: includes/katb_testimonial_basics_admin.php:792
+msgid "Order : "
+msgstr "Volgorde :"
+
+#: includes/katb_testimonial_basics_admin.php:795
+msgid "Review Rating : "
+msgstr "Beoordeling waardering:"
+
+#: includes/katb_testimonial_basics_admin.php:815
+msgid "Gravatar/Photo : "
+msgstr "Gravatar / Foto:"
+
+#: includes/katb_testimonial_basics_admin.php:826
+msgid "Author *: "
+msgstr "Auteur *: "
+
+#: includes/katb_testimonial_basics_admin.php:829
+msgid "Email : "
+msgstr "E-mail : "
+
+#: includes/katb_testimonial_basics_admin.php:833
+msgid "Website : "
+msgstr "Website : "
+
+#: includes/katb_testimonial_basics_admin.php:836
+msgid "Location : "
+msgstr "Locatie : "
+
+#: includes/katb_testimonial_basics_admin.php:841
+msgid "Testimonial *: "
+msgstr "Beoordeling *: "
+
+#: includes/katb_testimonial_basics_admin.php:845
+msgid "Save Testimonial"
+msgstr "Bewaar Beoordeling"
+
+#: includes/katb_testimonial_basics_admin.php:846
+msgid "Reset"
+msgstr "Reset"
+
+#: includes/katb_testimonial_basics_admin.php:847
+msgid "Delete"
+msgstr "Verwijder"
+
+#: includes/katb_testimonial_basics_admin.php:904
+msgid "WARNING - NO SECOND CHANCE - checked items will be deleted"
+msgstr "WAARSCHUWING - GEEN TWEEDE KANS - items zullen worden verwijderd"
+
+#: includes/katb_testimonial_basics_admin.php:919
+msgid "Date: "
+msgstr "Datum: "
+
+#: includes/katb_testimonial_basics_admin.php:920
+msgid "Time: "
+msgstr "Tiid: "
+
+#: includes/katb_testimonial_basics_admin.php:922
+msgid "Approved: "
+msgstr "Goedgekeurd:"
+
+#: includes/katb_testimonial_basics_admin.php:929
+msgid "Group: "
+msgstr "Groep:"
+
+#: includes/katb_testimonial_basics_admin.php:930
+msgid "Order: "
+msgstr "Volgorde:"
+
+#: includes/katb_testimonial_basics_admin.php:931
+msgid "Rating: "
+msgstr "Waardering:"
+
+#: includes/katb_testimonial_basics_admin.php:936
+msgid "E-mail: "
+msgstr "E-mail: "
+
+#: includes/katb_testimonial_basics_admin.php:937
+msgid "Location: "
+msgstr "Locatie: "
+
+#: includes/katb_testimonial_basics_admin.php:938
+msgid "Website: "
+msgstr "Website:"
+
+#: includes/katb_testimonial_basics_admin.php:980
+msgid "Adding And Editing Testimonials"
+msgstr "Toevoegen en aanpassen van beoordelingen"
+
+#: includes/katb_testimonial_basics_admin.php:982
+msgid ""
+"To add a testimonial simply enter the data and click the Save Testimonial "
+"button"
+msgstr ""
+"Om een beoordeling toe te voegen, voer eenvoudig de gegevens in en klik op "
+"de knop Opslaan Beoordeling"
+
+#: includes/katb_testimonial_basics_admin.php:983
+msgid ""
+"To edit a testimonial click the ID button for the testimonial you want to "
+"edit, make your changes and Save Testimonial"
+msgstr ""
+"Voor het bewerken van een beoordeling, klik op de ID-knop voor de "
+"beoordeling die u wilt bewerken, breng de gewenste wijzigingen aan en sla de "
+"beoordeling weer op"
+
+#: includes/katb_testimonial_basics_admin.php:984
+msgid ""
+"If the Approved checkbox is not selected, the testimonial will not be "
+"displayed."
+msgstr ""
+"Als het Goedgekeurd selectievakje niet is ingeschakeld, dan zal de "
+"beoordeling niet weergegeven worden."
+
+#: includes/katb_testimonial_basics_admin.php:985
+msgid ""
+"Enter a Order number, and you can optionally display lowest order number "
+"first."
+msgstr ""
+"Voer een volgorde nummer in en je kunt optioneel het laagste volgnummer als "
+"eerste weergegeven."
+
+#: includes/katb_testimonial_basics_admin.php:986
+msgid ""
+"Enter a Group name and you can optionally display only the grouped "
+"testimonials."
+msgstr ""
+"Voer een groep naam in en je kunt optioneel alleen de beoordelingen van deze "
+"groep weergeven."
+
+#: includes/katb_testimonial_basics_admin.php:987
+msgid ""
+"A Gravatar will be shown if the e-mail was set up for a gravatar, and the "
+"photo url input is empty."
+msgstr ""
+"Een Gravatar zal worden weergegeven als het e-mailadres is ingesteld voor "
+"een Gravatar, en het foto url invoerveld leeg is."
+
+#: includes/katb_testimonial_basics_admin.php:988
+msgid ""
+"If you are using gravatars but do not want to display a particular author "
+"gravatar, delete the author email."
+msgstr ""
+"Als je gravatars gebruikt maar die van een bepaalde auteur niet wilt tonen, "
+"verwijder het e-mailadres van deze auteur."
+
+#: includes/katb_testimonial_basics_admin.php:989
+msgid ""
+"If you want to upload a photo instead of using a gravatar, click the Upload "
+"Image button"
+msgstr ""
+"Als u een foto wilt uploaden in plaats van een gravatar te gebruiken, klikt "
+"u op de Upload Afbeelding knop"
+
+#: includes/katb_testimonial_basics_admin.php:990
+msgid ""
+"If you want add or change a rating, select the Review Rating dropdon list."
+msgstr ""
+"Als u een waardering wilt toevoegen of wijzigen, selecteer dan de "
+"beoordeling Waardering dropdown lijst."
+
+#: includes/katb_testimonial_basics_admin.php:991
+msgid ""
+"In the admin panel testimonials are displayed by most recent date first."
+msgstr ""
+"In het admin panel getuigenissen worden weergegeven door de meeste recente "
+"datum eerst."
+
+#: includes/katb_testimonial_basics_admin.php:992
+msgid "Each testimonial is assigned an ID number which can not be changed."
+msgstr ""
+"Elke beoordeling heeft een uniek ID nummer dat niet kan worden aangepast."
+
+#: includes/katb_testimonial_basics_admin.php:993
+msgid ""
+"To bulk delete testimonials select them and click the Bulk Delete button."
+msgstr ""
+"Bulk verwijderen getuigenissen selecteer ze en klik op de Bulk Delete knop."
+
+#: includes/katb_testimonial_basics_admin.php:994
+msgid "Be careful when you bulk delete, there is no second chance."
+msgstr "Wees voorzichtig wanneer u Bulk verwijderen, is er geen tweede kans."
+
+#: includes/katb_testimonial_basics_admin.php:996
+msgid "Detailed User Documentation"
+msgstr "Gedetailleerde Gebruikersdocumentatie"
+
+#: includes/katb_testimonial_basics_admin.php:997
+msgid "Detailed user documentation is available at the plugin site."
+msgstr ""
+"Gedetailleerde Gebruikersdocumentatie is beschikbaar op de plugin website"
+
+#: includes/katb_testimonial_basics_admin.php:1003
+msgid "Edit Testimonials Help"
+msgstr "Bewerken Beoordelingen Help"
+
+#: includes/katb_testimonial_basics_admin.php:1036
+#: includes/katb_testimonial_basics_admin.php:1709
+msgid "General"
+msgstr "Algemeen"
+
+#: includes/katb_testimonial_basics_admin.php:1045
+#: includes/katb_testimonial_basics_admin.php:1732
+msgid "Input Forms"
+msgstr "Input Formulieren"
+
+#: includes/katb_testimonial_basics_admin.php:1054
+#: includes/katb_testimonial_basics_admin.php:1753
+msgid "Content Display"
+msgstr "Content Weergave"
+
+#: includes/katb_testimonial_basics_admin.php:1063
+#: includes/katb_testimonial_basics_admin.php:1774
+msgid "Widget Display"
+msgstr "Widget Weergave"
+
+#: includes/katb_testimonial_basics_admin.php:1072
+#: includes/katb_testimonial_basics_admin.php:1407
+msgid "FAQ"
+msgstr "FAQ"
+
+#: includes/katb_testimonial_basics_admin.php:1089
+#: includes/katb_testimonial_basics_admin.php:1713
+msgid "General Options"
+msgstr "Algemene Opties"
+
+#: includes/katb_testimonial_basics_admin.php:1092
+msgid "Administrator : only logged in administrators can edit testimonials."
+msgstr "Beheerder: alleen in gelogde beheerders kunnen beoordelingen bewerken."
+
+#: includes/katb_testimonial_basics_admin.php:1093
+msgid "Editor : logged in Administrators or Editors can edit testimonials."
+msgstr ""
+"Editor: alleen in gelogde Administrators of Editors kunnen getuigenissen "
+"bewerken."
+
+#: includes/katb_testimonial_basics_admin.php:1096
+msgid ""
+"An email is sent to this address (or admin email if left blank) to notify "
+"that a testimonial has been submitted."
+msgstr ""
+"Een e-mail notificatie wordt verstuurd naar dit adres (of administrator e-"
+"mailadres als dit leeg word gelaten) wanneer er een nieuwe beoordeling is "
+"geplaatst."
+
+#: includes/katb_testimonial_basics_admin.php:1099
+msgid ""
+"Select this and the user will have the option of submitting a rating using a "
+"five star rating system."
+msgstr ""
+"Wanneer deze optie geselecteerd wordt zal de gebruiker de mogelijkheid "
+"hebben een waardering te geven met behulp van een vijf sterren-systeem."
+
+#: includes/katb_testimonial_basics_admin.php:1102
+msgid ""
+"Select this option and a CSS system is used for the 5 star rating system "
+"instead of jQuery."
+msgstr ""
+"Selecteer deze optie en een CSS-systeem wordt gebruikt voor de 5 sterren-"
+"systeem in plaats van jQuery."
+
+#: includes/katb_testimonial_basics_admin.php:1105
+#: includes/katb_testimonial_basics_admin.php:1108
+msgid "Pick the color you want. Only for the CSS System."
+msgstr "Kies de kleur die u wenst. Alleen voor de CSS System."
+
+#: includes/katb_testimonial_basics_admin.php:1107
+msgid "Shadow color for css stars"
+msgstr "Schaduw kleur voor css sterren"
+
+#: includes/katb_testimonial_basics_admin.php:1111
+msgid ""
+"Uncheck this box to disable the script, if you are not using rotating "
+"testimonials."
+msgstr ""
+"Vink dit vakje uit om het rotator script uit te schakelen, als u geen "
+"gebruik maakt van roterende beoordelingen."
+
+#: includes/katb_testimonial_basics_admin.php:1112
+msgid ""
+"This option may come in handy if you are troubleshooting jQuery problems."
+msgstr "Deze optie kan van pas komen als u problemen ondervindt met jQuery."
+
+#: includes/katb_testimonial_basics_admin.php:1114
+#: includes/katb_testimonial_basics_admin.php:1718
+msgid "Schema Options"
+msgstr "Schema Opties"
+
+#: includes/katb_testimonial_basics_admin.php:1117
+msgid ""
+"If you choose to use schema markup fill out the information below even if "
+"you choose not to display some items."
+msgstr ""
+"Als u ervoor kiest om schema markup te gebruiken, vul dan de onderstaande "
+"informatie in, zelfs als u ervoor kiest om een aantal items niet weer te "
+"geven."
+
+#: includes/katb_testimonial_basics_admin.php:1118
+msgid ""
+"The reason is that the information is still included in meta tags to help "
+"Google."
+msgstr ""
+"De reden is dat de informatie nog steeds wordt opgenomen in de meta-tags om "
+"Google te helpen."
+
+#: includes/katb_testimonial_basics_admin.php:1121
+msgid ""
+"Your company name will appear at the top of the page if you choose to "
+"display it."
+msgstr ""
+"Uw bedrijfsnaam verschijnt aan de bovenkant van de pagina als u ervoor kiest "
+"om deze weer te geven."
+
+#: includes/katb_testimonial_basics_admin.php:1124
+msgid ""
+"Your company website address will appear at the top of the page if you "
+"choose to display it."
+msgstr ""
+"Uw bedrijf website adres zal verschijnen aan de bovenkant van de pagina als "
+"u ervoor kiest om deze weer te geven."
+
+#: includes/katb_testimonial_basics_admin.php:1127
+msgid "Display your company name and website at the top of the page."
+msgstr "Toon uw bedrijfsnaam en website aan de bovenkant van de pagina."
+
+#: includes/katb_testimonial_basics_admin.php:1130
+msgid ""
+"If you choose to display a group of testimonials then that group is "
+"summarized."
+msgstr ""
+"Als u ervoor kiest om een groep van beoordelingen weer te geven dan wordt "
+"die groep vermeld in de samenvatting."
+
+#: includes/katb_testimonial_basics_admin.php:1131
+msgid "Otherwise the summary is for all the testimonials on your site."
+msgstr ""
+"In andere gevallen is de samenvatting voor alle beoordelingen op uw website."
+
+#: includes/katb_testimonial_basics_admin.php:1134
+msgid "You can choose to only display the summary if you want."
+msgstr "U kunt ervoor kiezen om alleen de samenvatting weer te geven."
+
+#: includes/katb_testimonial_basics_admin.php:1136
+msgid "Group Aggregate Review Name"
+msgstr "Groep Samenvatting Beoordeling Naam"
+
+#: includes/katb_testimonial_basics_admin.php:1137
+msgid ""
+"If you have grouped the testimonials you can use the Group name you have set "
+"up for a summary title."
+msgstr ""
+"Als je de beoordelingen hebt gegroepeerd, dan kunt u de Groep naam die u "
+"hebt ingesteld voor een samenvatting als titel gebruiken."
+
+#: includes/katb_testimonial_basics_admin.php:1140
+#: includes/katb_testimonial_basics_admin.php:1148
+msgid "You can specify a custom name if you do not want to use the Group name."
+msgstr "U kunt een eigen naam ingeven als u de Groep naam niet wilt gebruiken."
+
+#: includes/katb_testimonial_basics_admin.php:1141
+#: includes/katb_testimonial_basics_admin.php:1149
+msgid "If you want to use the Group name then leave this blank."
+msgstr "Als u de Groep naam wilt gebruik laat dan dit veld leeg."
+
+#: includes/katb_testimonial_basics_admin.php:1142
+#: includes/katb_testimonial_basics_admin.php:1150
+msgid ""
+"If you do not want to use a name at all then leave the checkbox unchecked "
+"and this section blank."
+msgstr ""
+"Als u geen enkel naam wilt gebruiken laat dan de checkbox niet aan gevinkt "
+"en dit veld gedeelte leeg."
+
+#: includes/katb_testimonial_basics_admin.php:1145
+msgid ""
+"Check this to use the Group name you have set up for the testimonial title."
+msgstr ""
+"Vink dit aan om de groepsnaam die u hebt ingesteld voor de beoordelings "
+"titel."
+
+#: includes/katb_testimonial_basics_admin.php:1165
+#: includes/katb_testimonial_basics_admin.php:1736
+msgid "General Input Options"
+msgstr "Algemeen Invul Opties"
+
+#: includes/katb_testimonial_basics_admin.php:1168
+msgid "You can check this box to have testimonials automatically approved."
+msgstr ""
+"U kunt hier een vinkje te hebben getuigenissen automatisch goedgekeurd."
+
+#: includes/katb_testimonial_basics_admin.php:1169
+msgid "CAUTION: Not recommended so use at your own risk."
+msgstr "LET OP: Niet aanbevolen dus gebruik op eigen risico."
+
+#: includes/katb_testimonial_basics_admin.php:1172
+msgid "You can include a black and white captcha on the input forms."
+msgstr "U kunt een zwart-wit captcha bij bij het invullen gebruiken."
+
+#: includes/katb_testimonial_basics_admin.php:1173
+msgid "If for any reason the Captcha is not working, disable it here."
+msgstr ""
+"Als de Captcha om onduidelijke redenen niet werkt, schakel het hier dan uit."
+
+#: includes/katb_testimonial_basics_admin.php:1176
+msgid "Select this to use a color captcha option."
+msgstr "Selecteer deze optie om een kleur captcha-optie te gebruiken."
+
+#: includes/katb_testimonial_basics_admin.php:1177
+msgid "If the black and white captcha is not working, try this one."
+msgstr "Als de zwarte en witte captcha niet werkt, probeer dan deze."
+
+#: includes/katb_testimonial_basics_admin.php:1180
+msgid "Select and the website input will not be used."
+msgstr "Selecteer dit om de website invul veld niet te gebruikt."
+
+#: includes/katb_testimonial_basics_admin.php:1182
+msgid "Require Website in input form"
+msgstr "Website in invoerformulier vereisen"
+
+#: includes/katb_testimonial_basics_admin.php:1183
+msgid ""
+"If Website is included and this checkbox is selected, the Website input box "
+"must be completed."
+msgstr ""
+"Als Website opgenomen is en dit aankruisvak is ingeschakeld, kan de Website "
+"invoervak moet worden ingevuld."
+
+#: includes/katb_testimonial_basics_admin.php:1186
+msgid "Select and the location input will not be used."
+msgstr "Selecteer dit om de locatie gegevens niet te gebruiken."
+
+#: includes/katb_testimonial_basics_admin.php:1188
+msgid "Require Location in input form"
+msgstr "Locatie in invoerformulier vereisen"
+
+#: includes/katb_testimonial_basics_admin.php:1189
+msgid ""
+"If Location is included and this checkbox is selected, the Location input "
+"box must be completed."
+msgstr ""
+"Als locatie opgenomen is en dit aankruisvak is ingeschakeld, kan de locatie "
+"invoervak moet worden ingevuld."
+
+#: includes/katb_testimonial_basics_admin.php:1191
+msgid "Content and Widget Form Input Options"
+msgstr "Inhoud en Widget Formulier Invul Opties"
+
+#: includes/katb_testimonial_basics_admin.php:1194
+msgid "Check this if you want to add a note."
+msgstr "Vink dit aan als u een notitie toe wilt voegen."
+
+#: includes/katb_testimonial_basics_admin.php:1197
+msgid "Add the note here if you do not want to use the default."
+msgstr ""
+"Voeg hier de notitie toe als u de standaard notitie niet wilt gebruiken."
+
+#: includes/katb_testimonial_basics_admin.php:1198
+msgid "Keep the text you enter to a reasonable length or it may look funny."
+msgstr "Maak de teksten niet te lang anders gaat het er raar uitzien."
+
+#: includes/katb_testimonial_basics_admin.php:1201
+msgid ""
+"Check to have a popup javascript messages for errors or thank you, to be "
+"displayed after the testimonial was submitted."
+msgstr ""
+"Selectievakje dat een popup javascript berichten voor fouten of dank u, moet "
+"worden weergegeven nadat de getuigenis werd voorgelegd."
+
+#: includes/katb_testimonial_basics_admin.php:1202
+msgid ""
+"In some WordPress sites the green colored thank you may not be displayed."
+msgstr ""
+"In sommige WordPress websites de groene gekleurde dank u mogelijk niet "
+"weergegeven."
+
+#: includes/katb_testimonial_basics_admin.php:1203
+msgid "This method provides an alternative."
+msgstr "Deze werkwijze biedt een alternatief."
+
+#: includes/katb_testimonial_basics_admin.php:1205
+#: includes/katb_testimonial_basics_admin.php:1253
+#: includes/katb_testimonial_basics_admin.php:1336
+msgid "Base Font Size"
+msgstr "Base Tekengrootte"
+
+#: includes/katb_testimonial_basics_admin.php:1206
+#: includes/katb_testimonial_basics_admin.php:1254
+#: includes/katb_testimonial_basics_admin.php:1337
+msgid "This option allows you to change the font size."
+msgstr "Met deze optie kunt u de lettergrootte veranderen."
+
+#: includes/katb_testimonial_basics_admin.php:1207
+#: includes/katb_testimonial_basics_admin.php:1255
+#: includes/katb_testimonial_basics_admin.php:1338
+msgid "It should work for most themes but CSS Specifity can cause problems."
+msgstr ""
+"Het zou moeten werken voor de meeste thema's, maar CSS specificiteit kan "
+"problemen veroorzaken."
+
+#: includes/katb_testimonial_basics_admin.php:1208
+#: includes/katb_testimonial_basics_admin.php:1256
+#: includes/katb_testimonial_basics_admin.php:1339
+msgid "Do not worry about what an em is just try one and see what happens."
+msgstr ""
+"Maak je geen zorgen over wat een \"em\" is, gewoon proberen een en zie wat "
+"er gebeurt."
+
+#: includes/katb_testimonial_basics_admin.php:1211
+msgid "Select this to display a title above the input form."
+msgstr ""
+"Selecteer deze optie om een titel boven het invoerscherm weer te geven."
+
+#: includes/katb_testimonial_basics_admin.php:1214
+msgid "Put the title you want to use here."
+msgstr "Zet de titel die u wilt gebruiken hier."
+
+#: includes/katb_testimonial_basics_admin.php:1215
+msgid "Note that for widgets the title is entered when you place the widget."
+msgstr ""
+"Merk op dat voor widgets de titel wordt ingevoerd wanneer u de widget "
+"plaatst."
+
+#: includes/katb_testimonial_basics_admin.php:1218
+msgid "Optionally include an html allowed strip on input forms."
+msgstr ""
+"Optioneel kun je de strook met toegestane HTML karakters tonen op het "
+"invoerformulier."
+
+#: includes/katb_testimonial_basics_admin.php:1219
+msgid ""
+"This strip shows the user what html tags will be allowed in the testimonial."
+msgstr ""
+"Deze strook geeft de gebruiker wat HTML-tags die zijn toegestaan bij het "
+"plaatsen van een beoordeling."
+
+#: includes/katb_testimonial_basics_admin.php:1222
+msgid ""
+"Visitors can use this link to set up a gravatar that will be included in the "
+"testimonial."
+msgstr ""
+"Bezoekers kunnen gebruik deze link om in te stellen een gravatar die zal "
+"worden opgenomen in de getuigenis."
+
+#: includes/katb_testimonial_basics_admin.php:1225
+msgid ""
+"only for the input widget, labels can be displayed inside or above the input "
+"boxes"
+msgstr ""
+"alleen voor de invoer widget, kunnen etiketten worden weergegeven binnen of "
+"boven de invoervakken"
+
+#: includes/katb_testimonial_basics_admin.php:1227
+msgid "Labels"
+msgstr "Labels"
+
+#: includes/katb_testimonial_basics_admin.php:1228
+msgid "You can change any of the labels in the input forms."
+msgstr "U kunt elke label van de invul velden veranderen."
+
+#: includes/katb_testimonial_basics_admin.php:1229
+msgid ""
+"This feature will come in handy for users that want to use a different "
+"language."
+msgstr ""
+"Deze functie zal van pas komen voor gebruikers die een andere taal willen "
+"gebruiken."
+
+#: includes/katb_testimonial_basics_admin.php:1244
+#: includes/katb_testimonial_basics_admin.php:1757
+msgid "Content Display General Options"
+msgstr "Content Algemene weergave Opties"
+
+#: includes/katb_testimonial_basics_admin.php:1247
+msgid ""
+"The Meta referred to is the rating, author, date, location, and website."
+msgstr ""
+"De Meta gegevens zijn de waardering, auteur, datum, locatie en website."
+
+#: includes/katb_testimonial_basics_admin.php:1248
+msgid "You can place it at the top or bottom or on the side."
+msgstr "U kunt het plaatsen op de bovenkant of onderkant of aan de kant."
+
+#: includes/katb_testimonial_basics_admin.php:1251
+#: includes/katb_testimonial_basics_admin.php:1334
+msgid "You can choose a font from the dropdown list."
+msgstr "U kunt een lettertype uit de dropdown lijst kiezen."
+
+#: includes/katb_testimonial_basics_admin.php:1258
+msgid "Pagination"
+msgstr "Paginering"
+
+#: includes/katb_testimonial_basics_admin.php:1259
+msgid ""
+"You can use pagination when you display all testimonials or all testimonials "
+"in a Group."
+msgstr ""
+"U kunt paginering gebruiken als je alle beoordelingen of alle beoordelingen "
+"van een groep weer wilt geven."
+
+#: includes/katb_testimonial_basics_admin.php:1260
+msgid "In any other display there is really no reason to use pagination."
+msgstr "In elk ander scherm is er echt geen reden om paginering te gebruiken."
+
+#: includes/katb_testimonial_basics_admin.php:1261
+msgid "You can choose to display 3, 5 or 10 per page."
+msgstr "U kunt kiezen voor 3, 5 of 10 beoordelingen per pagina weer te geven."
+
+#: includes/katb_testimonial_basics_admin.php:1263
+#: includes/katb_testimonial_basics_admin.php:1341
+msgid "Excerpts"
+msgstr "Woordafbreking"
+
+#: includes/katb_testimonial_basics_admin.php:1264
+#: includes/katb_testimonial_basics_admin.php:1342
+msgid ""
+"You can use excerpts with the specified number of words to display your "
+"testimonials."
+msgstr ""
+"U kunt fragmenten met het opgegeven aantal woorden om uw referenties weer te "
+"geven."
+
+#: includes/katb_testimonial_basics_admin.php:1265
+#: includes/katb_testimonial_basics_admin.php:1343
+msgid ""
+"When excerpts are selected, the testimonial is limited to the number of "
+"words, extended to end of sentence or break in sentence."
+msgstr ""
+"Als u fragmenten hebt geselecteerd, is de getuigenis beperkt tot het aantal "
+"woorden, uitgebreid tot einde van de zin of vakantie in zin."
+
+#: includes/katb_testimonial_basics_admin.php:1266
+#: includes/katb_testimonial_basics_admin.php:1344
+msgid ""
+"A visitor can then click a ...more link to display a pop-up of the entire "
+"testimonial."
+msgstr ""
+"Een bezoeker kan klik vervolgens op een.. .meer link naar een pop-up van het "
+"volledige getuigenis weergeven."
+
+#: includes/katb_testimonial_basics_admin.php:1269
+#: includes/katb_testimonial_basics_admin.php:1347
+msgid ""
+"If you wish to show the Group name or a Custom name for your testimonial, "
+"select this option."
+msgstr ""
+"Wilt u de Groep naam of een aangepaste naam weergeven voor uw beoordeling, "
+"selecteer dan deze optie."
+
+#: includes/katb_testimonial_basics_admin.php:1270
+#: includes/katb_testimonial_basics_admin.php:1348
+msgid ""
+"Then make sure the Custom Individual Review Name is filled out or Group "
+"Individual Review Name is selected - in the General Tab."
+msgstr ""
+"Controleer vervolgens of de Eigen Individuele beoordeling Naam is ingevuld "
+"of Groep Individueel beoordeling Naam is geselecteerd - in het tabblad "
+"Algemeen."
+
+#: includes/katb_testimonial_basics_admin.php:1272
+#: includes/katb_testimonial_basics_admin.php:1350
+msgid "Meta Display Options"
+msgstr "Meta Weergaveopties"
+
+#: includes/katb_testimonial_basics_admin.php:1273
+#: includes/katb_testimonial_basics_admin.php:1351
+msgid "The author is displayed as a minimum."
+msgstr "De auteur wordt weergegeven als een minimum."
+
+#: includes/katb_testimonial_basics_admin.php:1274
+#: includes/katb_testimonial_basics_admin.php:1352
+msgid "You can then optionally display website, location, and date."
+msgstr "U kunt dan desgewenst de website, locatie en datum weergeven. "
+
+#: includes/katb_testimonial_basics_admin.php:1276
+#: includes/katb_testimonial_basics_admin.php:1354
+msgid "Gravatars"
+msgstr "Gravatars"
+
+#: includes/katb_testimonial_basics_admin.php:1277
+#: includes/katb_testimonial_basics_admin.php:1355
+msgid "Select this to display Gravatars."
+msgstr "Selecteer deze optie om Gravatars tonen."
+
+#: includes/katb_testimonial_basics_admin.php:1278
+#: includes/katb_testimonial_basics_admin.php:1356
+msgid "Uploaded photos are displayed first."
+msgstr "Geüploade foto's worden als eerste weergegeven."
+
+#: includes/katb_testimonial_basics_admin.php:1279
+#: includes/katb_testimonial_basics_admin.php:1357
+msgid ""
+"If an uploaded photo does not exist, the plugin will display a gravatar, if "
+"one exists."
+msgstr ""
+"Als een geuploade foto niet bestaat, dan zal de plugin een Gravatar tonen, "
+"als deze bestaat."
+
+#: includes/katb_testimonial_basics_admin.php:1280
+#: includes/katb_testimonial_basics_admin.php:1358
+msgid ""
+"If gravatar does not exist, you can optionally display a substitute "
+"character."
+msgstr ""
+"Als de gravatar niet bestaat, dan kunt u eventueel een vervangende "
+"afbeelding weer laten geven."
+
+#: includes/katb_testimonial_basics_admin.php:1281
+#: includes/katb_testimonial_basics_admin.php:1359
+msgid ""
+"You can also select the gravatar size and if the gravatars should be round."
+msgstr ""
+"U kunt ook de gravatar grootte selecteren en als de gravatars ronde moet "
+"worden."
+
+#: includes/katb_testimonial_basics_admin.php:1284
+#: includes/katb_testimonial_basics_admin.php:1362
+msgid "Click this and italics will be used for the testimonial."
+msgstr ""
+"Selecteer deze optie en de tekst zal cursief weergegeven worden voor de "
+"beoordeling."
+
+#: includes/katb_testimonial_basics_admin.php:1286
+#: includes/katb_testimonial_basics_admin.php:1762
+msgid "Content Display Rotator Options"
+msgstr "Content Weergave Rotator Opties"
+
+#: includes/katb_testimonial_basics_admin.php:1289
+#: includes/katb_testimonial_basics_admin.php:1367
+msgid "Select the time in mili-seconds 1000 ms = 1 sec."
+msgstr "Selecteer de tijd in miliseconden 1000 ms = 1 sec."
+
+#: includes/katb_testimonial_basics_admin.php:1292
+#: includes/katb_testimonial_basics_admin.php:1370
+msgid "Selects a minimum height for all testimonials."
+msgstr "Selecteert een minimale hoogte voor alle beoordelingen."
+
+#: includes/katb_testimonial_basics_admin.php:1293
+#: includes/katb_testimonial_basics_admin.php:1371
+msgid ""
+"Use this option to prevent the screen from growing or shrinking to "
+"accomodate each testimonials."
+msgstr ""
+"Gebruik deze optie om te voorkomen dat het scherm hoger of kleiner wordt en "
+"zich aanpast aan elke beoordeling."
+
+#: includes/katb_testimonial_basics_admin.php:1294
+#: includes/katb_testimonial_basics_admin.php:1372
+msgid ""
+"Tip: use excerpts and make sure the length keeps testimonials within the "
+"minimum height prescribed."
+msgstr ""
+"Tip: gebruik woordafbreking en zorg ervoor dat de lengte van de "
+"beoordelingen binnen de voorgeschreven minimale hoogte blijft."
+
+#: includes/katb_testimonial_basics_admin.php:1297
+#: includes/katb_testimonial_basics_admin.php:1375
+msgid "Select the transition effect for the slider."
+msgstr "Selecteer het overgangseffect voor de schuifregelaar."
+
+#: includes/katb_testimonial_basics_admin.php:1299
+#: includes/katb_testimonial_basics_admin.php:1767
+msgid "Content Display Custom Options"
+msgstr "Content Weergave Aangepaste opties"
+
+#: includes/katb_testimonial_basics_admin.php:1302
+#: includes/katb_testimonial_basics_admin.php:1380
+msgid "To use formatted display select this box."
+msgstr "Om opgemaakte weergave te gebruiken selecteert u deze."
+
+#: includes/katb_testimonial_basics_admin.php:1303
+#: includes/katb_testimonial_basics_admin.php:1381
+msgid ""
+"If the Formatted Display box is checked a color style is applied to the "
+"testimonials, which can be customized."
+msgstr ""
+"Als de opgemaakte weergave box is aangevinkt, een 3D-stijl wordt toegepast "
+"op de beoordelingen, die eveneens kan worden aangepast."
+
+#: includes/katb_testimonial_basics_admin.php:1305
+#: includes/katb_testimonial_basics_admin.php:1383
+msgid "Colors"
+msgstr "Kleuren"
+
+#: includes/katb_testimonial_basics_admin.php:1306
+#: includes/katb_testimonial_basics_admin.php:1384
+msgid ""
+"Enter any hexdec color number preceded by a # mark or use the color picker"
+msgstr ""
+"Voer een hexdec kleur in, voorafgegaan door een # teken of gebruik de "
+"kleurkiezer"
+
+#: includes/katb_testimonial_basics_admin.php:1307
+#: includes/katb_testimonial_basics_admin.php:1385
+msgid "Select the color input cell you want to change."
+msgstr "Selecteer de kleur van het invul veld die u wilt wijzigen."
+
+#: includes/katb_testimonial_basics_admin.php:1308
+#: includes/katb_testimonial_basics_admin.php:1386
+msgid "A color box appears with a saturation bar on the right."
+msgstr ""
+"Een kleur scherm wordt weergegeven met een verzadiging balk aan de "
+"rechterkant."
+
+#: includes/katb_testimonial_basics_admin.php:1309
+#: includes/katb_testimonial_basics_admin.php:1387
+msgid "Drag the dot on the color box to select the color."
+msgstr "Sleep de stip op het kleurvak om de kleur te selecteren."
+
+#: includes/katb_testimonial_basics_admin.php:1310
+#: includes/katb_testimonial_basics_admin.php:1388
+msgid "Change the saturation with the sliding bar on the right."
+msgstr "Wijzig de kleurverzadiging met de schuifbalk aan de rechterkant."
+
+#: includes/katb_testimonial_basics_admin.php:1311
+#: includes/katb_testimonial_basics_admin.php:1389
+msgid "Click the Current Color Button when you are done."
+msgstr "Klik op de huidige kleur knop als u klaar bent."
+
+#: includes/katb_testimonial_basics_admin.php:1327
+msgid "Widget Display Options"
+msgstr "Widget Weergaveopties"
+
+#: includes/katb_testimonial_basics_admin.php:1330
+msgid ""
+"There are six layout options for the widget allowing flexibility for "
+"different themes. "
+msgstr ""
+"Er zijn zes lay-outopties voor de widget waardoor flexibiliteit voor "
+"verschillende thema's."
+
+#: includes/katb_testimonial_basics_admin.php:1331
+msgid "Try different ones, and ensure they work on all devices."
+msgstr ""
+"Probeer verschillende enen, en zeker weet dat ze werken op alle apparaten."
+
+#: includes/katb_testimonial_basics_admin.php:1364
+#: includes/katb_testimonial_basics_admin.php:1783
+msgid "Widget Display Rotator Options"
+msgstr "Widget Weergave Rotator Opties"
+
+#: includes/katb_testimonial_basics_admin.php:1377
+#: includes/katb_testimonial_basics_admin.php:1788
+msgid "Widget Display Custom Options"
+msgstr "Widget Weergave Aangepaste opties"
+
+#: includes/katb_testimonial_basics_admin.php:1409
+msgid "Why is pagination not working?"
+msgstr "Waarom is de paginering niet?"
+
+#: includes/katb_testimonial_basics_admin.php:1410
+msgid "Most likely it is because you have set them to display by=\"random\"."
+msgstr ""
+"Meest waarschijnlijk is het omdat je ze hebt ingesteld om te laten zien door "
+"= \"random\"."
+
+#: includes/katb_testimonial_basics_admin.php:1411
+msgid "Set them to display by=\"date\" or by=\"order\"."
+msgstr "Stel ze aan te tonen door = \"datum\" of = \"order\"."
+
+#: includes/katb_testimonial_basics_admin.php:1412
+msgid "Pagination does not work for random selections."
+msgstr "Paginering werkt niet voor willekeurige selecties."
+
+#: includes/katb_testimonial_basics_admin.php:1414
+msgid "Why are users not allowed to upload photos?"
+msgstr "Waarom zijn de gebruikers niet toegestaan ​​om foto's te uploaden?"
+
+#: includes/katb_testimonial_basics_admin.php:1415
+msgid "Users are not allowed to upload photos for security reasons."
+msgstr ""
+"Het is niet toegestaan voor gebruikers om foto's te uploaden door "
+"veiligheidsredenen."
+
+#: includes/katb_testimonial_basics_admin.php:1416
+msgid ""
+"Allowing anyone who is not logged in to upload files to your WordPress site "
+"is a very risky practice."
+msgstr ""
+"Iedereen die niet is ingelogd de mogelijkheid bieden om bestanden te "
+"uploaden naar uw WordPress website is een zeer riskante zaak."
+
+#: includes/katb_testimonial_basics_admin.php:1417
+msgid ""
+"The Gravatar system is very simple to register and the safe way to get user "
+"photos in their testimonials."
+msgstr ""
+"Het Gravatar systeem is zeer eenvoudig om bij te registreren en het is de "
+"meest veilige manier om de gebruiker foto's toe te laten voegen bij hun "
+"beoordeling."
+
+#: includes/katb_testimonial_basics_admin.php:1418
+msgid ""
+"The Admin or Editor can log in and upload photos from the Edit Testimonials "
+"Panel."
+msgstr ""
+"Het Admin of Editor kan inloggen en foto's uploaden vanaf het Aanpassen "
+"beoordeling Paneel."
+
+#: includes/katb_testimonial_basics_admin.php:1420
+msgid "My testimonial is not displaying."
+msgstr "Mijn beoordeling wordt niet weergegeven."
+
+#: includes/katb_testimonial_basics_admin.php:1421
+msgid "Go in to the edit testimonials panel and make sure it is approved."
+msgstr ""
+"Gaan naar het Beoordeling Bewerken Paneel en zorg ervoor dat het wordt of is "
+"goedgekeurd."
+
+#: includes/katb_testimonial_basics_admin.php:1423
+msgid "The widget labels in the input boxes do not disappear when selected."
+msgstr ""
+"De widget labels in de invoervakken verdwijnen niet wanneer geselecteerd."
+
+#: includes/katb_testimonial_basics_admin.php:1424
+msgid "They must be deleted."
+msgstr "Ze moeten worden verwijderd."
+
+#: includes/katb_testimonial_basics_admin.php:1425
+msgid ""
+"It is set up this way to keep the entry for editing in the event of a "
+"submission error."
+msgstr ""
+"Het is opgezet op een manier zodat bij een fout de gegevens bewaard blijven."
+
+#: includes/katb_testimonial_basics_admin.php:1635
+msgid "Show your appreciation!"
+msgstr "Toon uw waardering!"
+
+#: includes/katb_testimonial_basics_admin.php:1645
+msgid "Author Site : "
+msgstr "Website van auteur: "
+
+#: includes/katb_testimonial_basics_admin.php:1646
+msgid "Plugin Site : "
+msgstr "Plugin Website: "
+
+#: includes/katb_testimonial_basics_admin.php:1720
+msgid "I use the term Schema a bit loosley."
+msgstr "Ik gebruik de term Schema een beetje losjes."
+
+#: includes/katb_testimonial_basics_admin.php:1721
+msgid "It refers to"
+msgstr "Het verwijst naar"
+
+#: includes/katb_testimonial_basics_admin.php:1722
+msgid "which is a"
+msgstr "die een"
+
+#: includes/katb_testimonial_basics_admin.php:1723
+msgid ""
+"collaboration by Google, Microsoft and Yahoo to improve the web by creating "
+"a structured data markup schema supported by major search engines."
+msgstr ""
+"samenwerking heeft met Google, Microsoft en Yahoo om het web te verbeteren "
+"door het creëren van een gestructureerde gegevens markup schema ondersteund "
+"door de belangrijkste zoekmachines."
+
+#: includes/katb_testimonial_basics_admin.php:1724
+msgid ""
+"On-page markup helps search engines understand the information on web pages "
+"and provide richer results."
+msgstr ""
+"On-page opmaak helpt zoekmachines de informatie te begrijpen van webpagina's "
+"en zorgen voor rijkere en betere resultaten."
+
+#: includes/katb_testimonial_basics_admin.php:1725
+msgid ""
+"A shared markup vocabulary makes it easier for webmasters to decide on a "
+"markup schema and get maximum benefit for their efforts."
+msgstr ""
+"Een gedeelde markup woordenschat maakt het makkelijker voor webmasters om te "
+"beslissen over een markup schema en halen daarmee het maximale voordeel uit "
+"hun inspanningen."
+
+#: includes/katb_testimonial_basics_admin.php:1726
+msgid ""
+"You can now choose to display testimonials in a structured data format, "
+"which should help search results for your site."
+msgstr ""
+"U kunt nu kiezen om beoordelingen weer te geven in een gestructureerd "
+"dataformaat, die helpen de zoekresultaten voor uw site te verbeteren."
+
+#: includes/katb_testimonial_basics_admin.php:1741
+msgid "Content Form Input Options"
+msgstr "Content Formulier Invul Opties"
+
+#: includes/katb_testimonial_basics_admin.php:1746
+msgid "Widget Form Input Options"
+msgstr "Widget Formulier Invul Opties"
+
+#: includes/katb_testimonial_basics_admin.php:1758
+msgid ""
+"Content display refers to displaying your testimonials in the content area "
+"of your pages and posts."
+msgstr ""
+"Content weergave is bedoeld voor de weergave van uw beoordelingen in het "
+"content gebied van uw pagina's en berichten."
+
+#: includes/katb_testimonial_basics_admin.php:1763
+msgid "You can display up to 5 content rotators on one page."
+msgstr "U kunt maximaal 5 rotators op een en dezelfde pagina gebruiken."
+
+#: includes/katb_testimonial_basics_admin.php:1778
+msgid "Widget Display General Options"
+msgstr "Widget Weergave Algemene Opties"
+
+#: includes/katb_testimonial_basics_admin.php:1784
+msgid "You can display up to 5 widget rotators on one page."
+msgstr "U kunt maximaal 5 widget rotators op een en dezelfde pagina weergeven."
+
+#: includes/katb_testimonial_basics_admin.php:1826
+msgid "Testimonial Basics - Backup or Restore Your Testimonials"
+msgstr "Getuigenis Basics - back-up of herstellen van uw getuigenissen"
+
+#: includes/katb_testimonial_basics_admin.php:1830
+#: includes/katb_testimonial_basics_admin.php:1838
+msgid "Backup Testimonials"
+msgstr "Back-getuigenissen"
+
+#: includes/katb_testimonial_basics_admin.php:1831
+msgid ""
+"You can back up all your testimonials to an xml file, and it will be "
+"downloaded to your computer."
+msgstr ""
+"U kunt een back-up van alle uw getuigenissen naar een XML-bestand, en het "
+"zal worden gedownload naar uw computer."
+
+#: includes/katb_testimonial_basics_admin.php:1834
+msgid "Click to backup testimonials"
+msgstr "Klik om back-getuigenissen"
+
+#: includes/katb_testimonial_basics_admin.php:1841
+#: includes/katb_testimonial_basics_admin.php:1860
+msgid "Restore Testimonials"
+msgstr "Herstellen van getuigenissen"
+
+#: includes/katb_testimonial_basics_admin.php:1842
+msgid "You can restore your testimonials from a backup xml file."
+msgstr "U kunt uw getuigenissen terugzetten vanaf een back-up XML-bestand."
+
+#: includes/katb_testimonial_basics_admin.php:1843
+msgid "Maximum file size is 2MB."
+msgstr "Maximale bestandsgrootte is 2MB."
+
+#: includes/katb_testimonial_basics_admin.php:1844
+msgid ""
+"If your backup file is too large it will have to be broken up into parts."
+msgstr ""
+"Als uw back-upbestand te groot is zal het moeten worden opgesplitst in delen."
+
+#: includes/katb_testimonial_basics_admin.php:1845
+msgid ""
+"For example to break up your file into 2 files, use a text editor such as "
+"Notepad or Notepad++."
+msgstr ""
+"Gebruik een teksteditor zoals Notepad of Notepad ++ bijvoorbeeld te breken "
+"van uw bestand in 2 bestanden."
+
+#: includes/katb_testimonial_basics_admin.php:1846
+msgid ""
+"Make two copies of the full backup file and append _part1 and _part2 to the "
+"file names."
+msgstr ""
+"Maak twee kopieën van het volledige back-up bestand en _part1 en _part2 "
+"toevoegen aan de bestandsnamen."
+
+#: includes/katb_testimonial_basics_admin.php:1847
+msgid "Remove the bottom half of the testimonials from the first file."
+msgstr ""
+"De onderste helft van de getuigenissen uit het eerste bestand verwijderen."
+
+#: includes/katb_testimonial_basics_admin.php:1848
+msgid "Remove the top half of the testimonials from the second file."
+msgstr ""
+"Verwijder de bovenste helft van de getuigenissen uit het tweede bestand."
+
+#: includes/katb_testimonial_basics_admin.php:1849
+msgid ""
+"Note that all testimonials are wrapped in &lt;testimonials&gt;&lt;/"
+"testimonials&gt; tags. Do not delete these tags."
+msgstr ""
+"Merk op dat alle getuigenissen zijn verpakt in &lt; getuigenissen &gt;&lt; / "
+"getuigenissen &gt; tags. Verwijder niet deze tags."
+
+#: includes/katb_testimonial_basics_admin.php:1850
+msgid ""
+"Each testimonial is wrapped in &lt;testimonial&gt;&lt;/testimonial&gt; tags."
+msgstr ""
+"Elke getuigenis is verpakt in &lt; getuigenis &gt;&lt; / testimonial &gt; "
+"tags."
+
+#: includes/katb_testimonial_basics_admin.php:1851
+msgid ""
+"To remove a testimonial delete everything between the &lt;testimonial&gt;"
+"&lt;/testimonial&gt; tags, including the tags."
+msgstr ""
+"Voor het verwijderen van een getuigenis Verwijder alles tussen de &lt; "
+"getuigenis &gt;&lt; / testimonial &gt; tags, waaronder de tags."
+
+#: includes/katb_testimonial_basics_admin.php:1855
+msgid "Select an xml file"
+msgstr "Selecteer een XML-bestand"
+
+#: includes/katb_testimonial_basics_admin.php:1919
+#, php-format
+msgid ""
+"There was an error importing the logs. File type detected: '%s'. 'text/xml' "
+"expected"
+msgstr ""
+"Er is een fout opgetreden bij het importeren van de logs. Bestandstype "
+"ontdekt:'%s'. 'text/xml' had verwacht"
+
+#: includes/katb_testimonial_basics_admin.php:1924
+#, php-format
+msgid "File size too large (%s). Maximum 2MB"
+msgstr "Bestandsgrootte is te groot (% s). Mag maximaal 2MB zijn."
+
+#: includes/katb_testimonial_basics_admin.php:1928
+#, php-format
+msgid "Error encountered: %d"
+msgstr "Fout opgetreden: %d"
+
+#: includes/katb_testimonial_basics_admin.php:2157
+msgid "1 testimonial successfully imported"
+msgstr "1 getuigenis geïmporteerd"
+
+#: includes/katb_testimonial_basics_admin.php:2161
+#, php-format
+msgid "%d testimonials successfully imported"
+msgstr "%d getuigenissen geïmporteerd"
+
+#: includes/katb_testimonial_basics_admin.php:2164
+msgid " No testimonials were imported - must be a problem somewhere :("
+msgstr ""
+"Geen testimonials werden ingevoerd - moet worden een probleem ergens :("
+
+#: widgets/katb_display_testimonial_widget.php:32
+msgid "Display Testimonials."
+msgstr "Beoordelingen weergeven."
+
+#: widgets/katb_display_testimonial_widget.php:34
+msgid "Testimonial Display Widget"
+msgstr "Beoordelingen weergave Widget"
+
+#: widgets/katb_display_testimonial_widget.php:60
+msgid "Title : "
+msgstr "Titel:"
+
+#: widgets/katb_display_testimonial_widget.php:62
+msgid "Number : "
+msgstr "Aantal:"
+
+#: widgets/katb_display_testimonial_widget.php:63
+msgid "By : "
+msgstr "Door:"
+
+#: widgets/katb_display_testimonial_widget.php:70
+msgid "IDs : "
+msgstr "Id's:"
+
+#: widgets/katb_display_testimonial_widget.php:71
+msgid "Rotate : "
+msgstr "Rotate:"
+
+#: widgets/katb_display_testimonial_widget.php:77
+msgid "Layout : "
+msgstr "Layout:"
+
+#: widgets/katb_display_testimonial_widget.php:94
+msgid "Use Schema : "
+msgstr "Gebruik schema opmaak"
+
+#: widgets/katb_input_testimonial_widget.php:52
+msgid "Allow a user to input a testimonial."
+msgstr "Sta een gebruiker toe om een beoordeling toe te voegen."
+
+#: widgets/katb_input_testimonial_widget.php:54
+msgid "Testimonial Input Widget"
+msgstr "Beoordeling Invoer Widget"
+
+#: widgets/katb_input_testimonial_widget.php:77
+msgid "Title :"
+msgstr "Titel :"
+
+#: widgets/katb_input_testimonial_widget.php:78
+msgid "Group :"
+msgstr "Groep :"
+
+#: widgets/katb_input_testimonial_widget.php:79
+msgid "Form No :"
+msgstr "Vorm No:"
+
+#: widgets/katb_input_testimonial_widget.php:200
+#: widgets/katb_input_testimonial_widget.php:201
+msgid "Author required"
+msgstr "Auteur nodig"
+
+#: widgets/katb_input_testimonial_widget.php:214
+#: widgets/katb_input_testimonial_widget.php:215
+msgid "Valid email required "
+msgstr "Geldig email verplicht"
+
+#: widgets/katb_input_testimonial_widget.php:231
+#: widgets/katb_input_testimonial_widget.php:232
+msgid "Website required "
+msgstr "Website nodig"
+
+#: widgets/katb_input_testimonial_widget.php:247
+#: widgets/katb_input_testimonial_widget.php:248
+msgid "Location required "
+msgstr "Locatie nodig "
+
+#: widgets/katb_input_testimonial_widget.php:272
+#: widgets/katb_input_testimonial_widget.php:273
+msgid "Testimonial required"
+msgstr "Testimonial nodig"
+
+#: widgets/katb_input_testimonial_widget.php:286
+#: widgets/katb_input_testimonial_widget.php:287
+msgid "Captcha invalid"
+msgstr "Captcha ongeldig"
+
+#: widgets/katb_input_testimonial_widget.php:359
+msgid "Error"
+msgstr "Fout!"
+
+#: widgets/katb_input_testimonial_widget.php:469
+msgid "Add a Photo? "
+msgstr "Een foto toevoegen?"
+
+#. Plugin Name of the plugin/theme
+msgid "Testimonial Basics"
+msgstr "Beoordeling"
+
+#. Plugin URI of the plugin/theme
+msgid "http://kevinsspace.ca/testimonial-basics-wordpress-plugin/"
+msgstr "http://kevinsspace.ca/testimonial-basics-wordpress-plugin/"
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin facilitates easy management of customer testimonials. The user "
+"can set up an input form in a page or in a widget, and display all or "
+"selected testimonials in a page or a widget. The plug in is very easy to use "
+"and modify."
+msgstr ""
+"De gebruiker kan een invoerformulier in een pagina of widget plaatsen en "
+"alle (of een selectie van de) beoordelingen in een pagina of widget tonen."
+
+#. Author of the plugin/theme
+msgid "Kevin Archibald"
+msgstr "Kevin Archibald"
+
+#. Author URI of the plugin/theme
+msgid "http://kevinsspace.ca"
+msgstr "http://kevinsspace.ca"
+
+#~ msgid ""
+#~ "If the Formatted Display box is checked a 3D style is applied to the "
+#~ "testimonials, which can be customized."
+#~ msgstr ""
+#~ "Als de opgemaakte weergave box is aangevinkt, een 3D-stijl wordt "
+#~ "toegepast op de beoordelingen, die eveneens kan worden aangepast."
+
+#~ msgid "Excerpt length in characters"
+#~ msgstr "Aantal karakters voor afbreken"
+
+#~ msgid "default: 400"
+#~ msgstr "Standaard: 400"
+
+#~ msgid "default: Verdana"
+#~ msgstr "Standaard: Verdana"
+
+#~ msgid "Background Wrap Color"
+#~ msgstr "Achtergrondkleur"
+
+#~ msgid "Testimonial Box Color"
+#~ msgstr "Beoordeling achtergrondkleur"
+
+#~ msgid "default: #DBDBDB"
+#~ msgstr "Standaard: #DBDBDB"
+
+#~ msgid "default: 250"
+#~ msgstr "Standaard: 250"
+
+#~ msgid "Enter Captcha"
+#~ msgstr "Voer Captcha in"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Photo"
+#~ msgstr "Foto"
+
+#~ msgid "Author Information"
+#~ msgstr "Auteur Informatie"
+
+#~ msgid "Use popup thank you"
+#~ msgstr "Gebruik popup dank u"
+
+#~ msgid ""
+#~ "Check to have a popup javascript message displayed after the testimonial "
+#~ "was submitted."
+#~ msgstr ""
+#~ "Controleer een popup javascript bericht weergegeven nadat de getuigenis "
+#~ "werd ingediend hebben."
+
+#~ msgid "You can place it at the top or bottom."
+#~ msgstr "U kunt het aan de boven-of onderkant weergeven."
+
+#~ msgid ""
+#~ "You can use excerpts with the specified character length to display your "
+#~ "testimonials."
+#~ msgstr ""
+#~ "Je kan woord afbreking met een gespecificeerde karakterlengte gebruiken "
+#~ "om je beoordelingen te tonen."
+
+#~ msgid ""
+#~ "When excerpts are selected, the testimonial is limited to the characters "
+#~ "input."
+#~ msgstr ""
+#~ "Wanneer woordafbreking is geselecteerd, wordt de beoordeling beperkt tot "
+#~ "het bepaald aantal ingevoerde karakters."
+
+#~ msgid ""
+#~ "A user can then click a ...more link to display a pop-up of the entire "
+#~ "testimonial."
+#~ msgstr ""
+#~ "Een gebruiker kan vervolgens op een \"... meer\" link klikken waarna er "
+#~ "een pop-up zal verschijnen van de volledige beoordeling."
+
+#~ msgid ""
+#~ "There are very few differences between the Content Display Options and "
+#~ "the Widget Display Options."
+#~ msgstr ""
+#~ "Er zijn maar weinig verschillen tussen de inhoud weergaveopties en de "
+#~ "Widget Weergaveopties."
+
+#~ msgid ""
+#~ "Pagination does not apply for widgets, and there is no testimonial wrap "
+#~ "for formatting."
+#~ msgstr ""
+#~ "Paginering geldt niet voor widgets, en er is geen specifieke opmaak voor "
+#~ "beoordelingen."
+
+#~ msgid "The user is referred to the Content Display section for help."
+#~ msgstr ""
+#~ "De gebruiker wordt doorverwezen naar de Content weergave sectie voor hulp."
+
+#~ msgid "Why are testimonials not automatically approved?"
+#~ msgstr "Waarom zijn beoordelingen niet automatisch goedgekeurd?"
+
+#~ msgid ""
+#~ "If you want testimonials on your site then you are concerned about what "
+#~ "clients think of your business."
+#~ msgstr ""
+#~ "Als u beoordelingen wilt ontvangen op uw website, dan bent u benieuwd "
+#~ "over wat klanten denken van uw bedrijf of product."
+
+#~ msgid ""
+#~ "So it is probably a good idea to check the testimonial first and then "
+#~ "approve it."
+#~ msgstr ""
+#~ "Dus is het waarschijnlijk een goed idee om de beoordeling eerst te "
+#~ "controleren en dan pas goed te keuren. Denk hierbij ook aan SPAM!"
+
+#~ msgid "The widget labels do not disappear when selected."
+#~ msgstr "De widget labels verdwijnen niet wanneer geselecteerd."
+
+#~ msgid "Group Label"
+#~ msgstr "Groep Label"
+
+#~ msgid "Default: Group"
+#~ msgstr "Standaard: Groep"
+
+#~ msgid "Author"
+#~ msgstr "Auteur"
+
+#~ msgid "Author - Required"
+#~ msgstr "Auteur - Verplicht"
+
+#~ msgid "Email"
+#~ msgstr "E-mail"
+
+#~ msgid "default: 7000 ms"
+#~ msgstr "Standaard: 7000 ms"
+
+#~ msgid "default: fade"
+#~ msgstr "Standaard: fade"
+
+#~ msgid "Submitted-Thankyou!"
+#~ msgstr "Jouw beoordeling is verzonden - Dank je! "
+
+#~ msgid "Testimonial not found. Please check your function call variables."
+#~ msgstr ""
+#~ "Referentie is niet gevonden. Controleer alle variabelen van de functie."
+
+#~ msgid "Verification"
+#~ msgstr "Verificatie"
+
+#~ msgid "Enter Captcha Letters"
+#~ msgstr "Enter Captcha"
+
+#~ msgid "Submit"
+#~ msgstr "Verzenden"
+
+#~ msgid ""
+#~ "Click the Help button for instructions or see the detailed documentation "
+#~ "at the plugin site."
+#~ msgstr ""
+#~ "Klik de “Help” knop voor instructies of bekijk de uitgebreide "
+#~ "documentatie op de plugin site."
+
+#~ msgid "Group"
+#~ msgstr "Groep"
+
+#~ msgid "Order"
+#~ msgstr "Volgorde"
+
+#~ msgid "Appr"
+#~ msgstr "Appr"
+
+#~ msgid "Timestamp"
+#~ msgstr "Timestamp"
+
+#~ msgid "E-mail"
+#~ msgstr "E-mail"
+
+#~ msgid "Location"
+#~ msgstr "Locatie"
+
+#~ msgid ""
+#~ "Note that new testimonials that come in must be approved by clicking the "
+#~ "approved box or they will not be displayed."
+#~ msgstr ""
+#~ "Let op dat referenties die nieuw binnenkomen, eerst goedgekeurd moeten "
+#~ "worden door de “goedgekeurd” checkbox aan te vinken, anders worden ze "
+#~ "niet getoond."
+
+#~ msgid "Options Help"
+#~ msgstr "Opties Help"
+
+#~ msgid "Select the user role for permission to edit testimonials"
+#~ msgstr "Selecteer een gebruikersrol om referenties te mogen wijzigen"
+
+#~ msgid ""
+#~ "Include a captcha in the input by selecting the \"Use captcha on input "
+#~ "forms\" checkbox. "
+#~ msgstr ""
+#~ "Neem captcha op bij het invoerformulier door de checkbox \"Gebruik "
+#~ "captcha op invoerformulieren\" aan te vinken."
+
+#~ msgid "Testimonial Rotator Script - uncheck this box to disable the script."
+#~ msgstr ""
+#~ "Testimonial Rotator Script - dit vakje om het script uit te schakelen."
+
+#~ msgid ""
+#~ "Exclude Website in input form - check this box and the Website line will "
+#~ "not be shown on input forms."
+#~ msgstr ""
+#~ "Uitsluiten Website in invulformulier - aanvinken en de Website lijn zal "
+#~ "niet op de invulformulieren getoond."
+
+#~ msgid ""
+#~ "Exclude Location in input form - check this box and the Location line "
+#~ "will not be shown on input forms."
+#~ msgstr ""
+#~ "Sluiten Locatie in invulformulier - aanvinken en de locatie lijn zal niet "
+#~ "op de invulformulieren getoond."
+
+#~ msgid ""
+#~ "Email note: You can choose not to display one, or you can change it to "
+#~ "any text you want."
+#~ msgstr ""
+#~ "Bijschrift E-mail: Je kunt er voor kiezen om er geen te tonen of je "
+#~ "wijzigt de tekst."
+
+#~ msgid ""
+#~ "Input Form Title: You can choose not to display one, or you can change "
+#~ "the title."
+#~ msgstr ""
+#~ "Invoerformulier titel: Je kunt er voor kiezen om er geen te tonen of de "
+#~ "titel te veranderen."
+
+#~ msgid ""
+#~ "The Required Label only applies to the main content form and not the "
+#~ "widget."
+#~ msgstr ""
+#~ "De vereiste label is alleen van toepassing op de inhoud vorm en niet de "
+#~ "widget."
+
+#~ msgid ""
+#~ "Website, Date and Location are optional for display in the testimonial, "
+#~ "just click them if you want to show them."
+#~ msgstr ""
+#~ "Website, Datum en Locatie kun je optioneel tonen in je referentie, gewoon "
+#~ "aanvinken om te tonen."
+
+#~ msgid ""
+#~ "Gravatars: If selected, images associated with the author e-mail will be "
+#~ "shown if one exists."
+#~ msgstr ""
+#~ "Gravatars: Als geselecteerd, worden afbeeldingen getoond die geassocieerd "
+#~ "zijn met de e-mail van de auteur."
+
+#~ msgid ""
+#~ "Italic: If selected, the content, not the author strip, will be displayed "
+#~ "in italic style."
+#~ msgstr ""
+#~ "Italic: Als geselecteerd wordt de inhoud, niet de strook van de auteur, "
+#~ "getoond in italic."
+
+#~ msgid ""
+#~ "Formatted Display: If you want to use a basic display that will use your "
+#~ "theme's fonts and colors, leave this box unchecked."
+#~ msgstr ""
+#~ "Tonen met Opmaak: Als je de standard display wilt gebruiken, fonts en "
+#~ "kleuren zoals in je thema, laat deze checkbox leeg."
+
+#~ msgid ""
+#~ "Custom Options: The custom options below the Formatted Display Box only "
+#~ "apply if the box is checked."
+#~ msgstr ""
+#~ "Aangepaste Opties: De onderstaande aangepaste opties onder het “Aangepast "
+#~ "Tonen” kader, gelden alleen als de checkbox is aangevinkt."
+
+#~ msgid ""
+#~ "Save Options: Make sure you save your settings before leaving the page."
+#~ msgstr "Bewaar Opties: Save de settings voor dat je de pagina verlaat."
+
+#~ msgid ""
+#~ "Reset Options: If you click this all options are reset to defaults so be "
+#~ "CAREFUL!"
+#~ msgstr ""
+#~ "Herstel Opties: Als je hieropklikt worden alle opties weer op standaard "
+#~ "gezet. Wees VOORZICHTIG"
+
+#~ msgid "These options are essentially the same as the previous section."
+#~ msgstr "Deze opties zijn in essentie hetzelfde als het voorgaande gedeelte."
+
+#~ msgid ""
+#~ "The widget is much smaller than the content display, so you may want to "
+#~ "have different display options."
+#~ msgstr ""
+#~ "De widget is veel kleiner dan waneer het in de inhoud wordt getoond, dus "
+#~ "misschien wil je het anders tonen."
+
+#~ msgid ""
+#~ "This section is also used to customize the display for the the multiple "
+#~ "display widget"
+#~ msgstr ""
+#~ "Deze selectie word took gebruikt om het tonen aan te passen voor de "
+#~ "Meervoudige Referenties Tonen widget."
+
+#~ msgid "Add a Testimonial"
+#~ msgstr "Plaats een Referentie"
+
+#~ msgid "Testimonial not found or approved. Please check your shortcode."
+#~ msgstr "Referenties niet gevonden of goedgekeurd. Contoleer de shortcode."
+
+#~ msgid "Testimonial not found. Please check your shortcode."
+#~ msgstr "Referentie niet gevonden. Controleer de shortcode"
+
+#~ msgid "There are no approved testimonials in that group to display!"
+#~ msgstr "Er zijn geen goedgekeurde referenties in die groep om te tonen!"
+
+#~ msgid "You need at least 2 approved testimonials, check your shortcode"
+#~ msgstr ""
+#~ "Je hebt minimaal 2 goedgekeurde getuigenissen, controleer je shortcode"
+
+#~ msgid ""
+#~ "The following was used with older versions and still works with the "
+#~ "latest version:"
+#~ msgstr ""
+#~ "Het volgende werd gebruikt bij oudere versies en werkt nog steeds bij de "
+#~ "nieuwste versie:"
+
+#~ msgid "Note the space between the dash and the letters."
+#~ msgstr "Let op de spaties tussen de streepjes en de letters."
+
+#~ msgid "It will not work without the spaces."
+#~ msgstr "Zonder de spaties werkt het niet."
+
+#~ msgid "single random testimonial"
+#~ msgstr "enkele willekeurige referentie"
+
+#~ msgid ""
+#~ "The id property must be blank to display (ie id=\"\") multiple "
+#~ "testimonials."
+#~ msgstr ""
+#~ "The id eigenschap Moet leeg zijn (bv: id=\"\") om meerdere referenties te "
+#~ "tonen."
+
+#~ msgid "Multiple Testimonial Shortcode"
+#~ msgstr "Meerdere Testimonial Shortcode"
+
+#~ msgid "Rotate Testimonials Shortcode"
+#~ msgstr "Roteren Getuigenissen Shortcode"
+
+#~ msgid "randomly select"
+#~ msgstr "Willekeurig selecteren"
+
+#~ msgid "must be between 2-10"
+#~ msgstr "moet 2-10"
+
+#~ msgid ""
+#~ "leave blank to use \"group\", \"by\" and \"number\" options or enter up "
+#~ "to 10 testimonial id numbers separated by a comma"
+#~ msgstr ""
+#~ "Laat leeg om \"group\", \"by\" en \"number\" opties gebruiken of toegang "
+#~ "tot 10 testimonial id getallen gescheiden door een komma"
+
+#~ msgid "Single Testimonial Display Widget"
+#~ msgstr "Toon een Enkelvoudige Referentie Widget"
+
+#~ msgid "pick a testimonial randomly"
+#~ msgstr "kies een testimonial willekeurig"
+
+#~ msgid "Multiple Testimonial Display Widget"
+#~ msgstr "Toon Meervoudige Referenties Widget"
+
+#~ msgid "You can also use a widget to display multiple testimonials."
+#~ msgstr "Je kunt ook een widget gebruiken om meerdere referenties te tonen."
+
+#~ msgid "Rotator Testimonial Display Widget"
+#~ msgstr "Rotator Testimonial Weergave Widget"
+
+#~ msgid "There is now a widget to rotate multiple testimonials."
+#~ msgstr "Er is nu een widget om meerdere getuigenissen draaien."
+
+#~ msgid "Display multiple testimonials."
+#~ msgstr "Toon meerdere referenties"
+
+#~ msgid "Testimonial Multiple Display Widget"
+#~ msgstr "Toon Meerdere Referenties widget"
+
+#~ msgid "Could not find testimonial"
+#~ msgstr "Kon geen referentie vinden"
+
+#~ msgid "Page"
+#~ msgstr "Pagina"
+
+#~ msgid "of"
+#~ msgstr "van"
+
+#~ msgid "Shortcode"
+#~ msgstr "Shortcode"
+
+#~ msgid ""
+#~ "The widget will display a selected testimonial or can randomly pick a "
+#~ "testimonial to display when a page reloads."
+#~ msgstr ""
+#~ "De widget zal een geselecteerde referentie tonen of kan willekeurig een "
+#~ "referentie plaatsen als de pagina herlaad."
+
+#~ msgid ""
+#~ "You can input a title and the ID number of the testimonial you want to "
+#~ "display or \"random\" to display a random testimonial from the approved "
+#~ "list."
+#~ msgstr ""
+#~ "Je kunt de titel en het ID nummer van de referentie die je wilt tonen "
+#~ "invoeren. Of “random” om een willekeurige referentie te laten zien van de "
+#~ "goedgekeurde lijst."
+
+#~ msgid "Website - Optional"
+#~ msgstr "Website - Optioneel"
+
+#~ msgid "Drag the dot on the inside Color Box to select the saturation level."
+#~ msgstr ""
+#~ "Sleep de rechthoek in het Kleurenkader om de saturation level aan te "
+#~ "passen."

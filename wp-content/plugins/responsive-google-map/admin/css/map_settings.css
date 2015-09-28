@@ -1,0 +1,44 @@
+#gmapSettings > div{
+    display: none;
+}
+#gmapSettings > div:first-child{
+    display: block;
+}
+.marker{
+    width: 68px;
+    height: 68px;
+    text-align: center;
+    line-height: 83px;
+    position: relative;
+    padding-left:3px;
+    padding-top: 3px;
+    cursor: pointer;
+}
+.marker:after{
+    content: "";
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    border: 8px solid #e2d5ab;
+    display: block;
+    top: 0px;
+    left: 0px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.hover:after{
+    border-color: #7F6860;
+}
+.active:after{
+    border-color: #DA3533;
+}
+#om_message{
+    background: #ffffff;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+    margin: 5px 0 15px;
+    padding: 2px 10px;
+}
+.om_error{
+    border-left: 4px solid #DD3D36;
+}
